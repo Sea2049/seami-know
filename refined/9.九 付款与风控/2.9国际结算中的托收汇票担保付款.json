@@ -1,0 +1,52 @@
+{
+ "summary": "本课深入解析国际结算中托收汇票担保付款，强调Avalized Draft的风险降低与保障作用。",
+ "keypoints": [
+  "介绍托收汇票代保付款，重点讲解Avalized Draft的概念与作用。",
+  "区分DP和DA，强调DP的安全性高于DA。",
+  "详解Avalized Draft，银行担保降低风险，保障出口方收款。",
+  "分析银行背书担保的优势，提高DA安全性，降低风险。",
+  "探讨客户与银行信誉对交易安全的影响。",
+  "指出客户信誉的不确定性，尤其是中小企业和个人客户。",
+  "阐述DA与Avaliser Draft在平衡商业风险中的作用。",
+  "建议了解DA与Avaliser Draft，提升谈判中的专业性和经验。"
+ ],
+ "sections": [
+  {
+   "heading": "国际结算与托收汇票",
+   "content": "本节介绍国际结算中的托收汇票代保付款，重点讲解Avalized Draft。"
+  },
+  {
+   "heading": "托收汇票代保付款概述",
+   "content": "DP和DA属于托收范畴，DP相对安全，DA风险较大。"
+  },
+  {
+   "heading": "Avalized Draft详解",
+   "content": "Avalized Draft是银行担保，降低风险，保障出口方收款。"
+  },
+  {
+   "heading": "Avalized Draft操作与优势",
+   "content": "银行背书担保，提高DA安全性，风险较低，合作更顺利。"
+  },
+  {
+   "heading": "商业风险与银行信誉",
+   "content": "客户与银行合作，银行信誉通常更可靠，因为银行信誉对客户存钱和交易至关重要。"
+  },
+  {
+   "heading": "客户信誉的不确定性",
+   "content": "与客户合作时，客户信誉可能不稳定，尤其是中小企业和个人客户，存在风险。"
+  },
+  {
+   "heading": "DA与Avaliser Draft的作用",
+   "content": "DA与Avaliser Draft提供额外保障，有助于平衡商业风险，确保交易安全。"
+  },
+  {
+   "heading": "应对谈判风险的建议",
+   "content": "了解DA与Avaliser Draft，有助于在谈判中提出方案，展示专业性和经验。"
+  }
+ ],
+ "title": "2.9国际结算中的托收汇票担保付款",
+ "duration": 753.81,
+ "model": "glm-4-flash",
+ "chars": 4347,
+ "ts": "2026-07-25 17:57:26"
+}

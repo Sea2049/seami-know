@@ -1,0 +1,38 @@
+{
+ "summary": "本节课介绍了如何通过生产周期和客户销售周期来跟踪报价规律，并分析了不同订单类型和下单规律。",
+ "keypoints": [
+  "了解生产周期和客户销售周期对报价规律的影响",
+  "区分Direct Import和Domestic订单的生产周期差异",
+  "掌握Promotion Order和Init Order的下单规律",
+  "根据项目特点确定下单时间，提前做好销售准备",
+  "注意客户不合理的order focus，避免库存风险",
+  "把握工程订单的跟踪节奏，实现产品价值最大化"
+ ],
+ "sections": [
+  {
+   "heading": "生产周期与订单类型",
+   "content": "生产周期从pre-production sample开始到货物出运的CRD，根据订单性质，Direct Import订单生产周期较长，Domestic订单相对较短。Direct Import订单涉及第三方测试和验货，Domestic订单要求相对较低。"
+  },
+  {
+   "heading": "下单规律分析",
+   "content": "订单项目分为Promotion Order和Init Order，Promotion Order下单流程简单，Init Order需分两步进行。根据项目特点确定下单时间，如春季项目下单不晚于9月底，圣诞节促销下单不晚于5月底。"
+  },
+  {
+   "heading": "订单跟踪要点",
+   "content": "精准的order focus可以降低采购成本、交期延误和库存成本。注意客户不合理的order focus，避免库存风险。"
+  },
+  {
+   "heading": "工程订单跟踪",
+   "content": "工程订单如酒店采购家具，需经历招标、预算、合同确认等环节，跟踪节奏需把握项目进度。"
+  },
+  {
+   "heading": "消费品订单跟踪",
+   "content": "消费品订单跟踪需把握时间节点，如春季新品推荐在6-7月，圣诞节促销在2-3月。"
+  }
+ ],
+ "title": "1.6 报价规律",
+ "duration": 699.25,
+ "model": "glm-4-flash",
+ "chars": 2975,
+ "ts": "2026-07-25 17:37:53"
+}

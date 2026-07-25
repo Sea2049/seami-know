@@ -1,0 +1,36 @@
+{
+ "summary": "本节课介绍了如何将TikTok用户引流至WhatsApp Business，通过设置短链接实现便捷沟通。",
+ "keypoints": [
+  "使用WhatsApp Business以获取商业账户的完整链接功能。",
+  "通过语音验证方式解决手机无法发送验证码的问题。",
+  "在TikTok个人资料中添加WhatsApp Business短链接。",
+  "确保链接保存成功，以便用户点击访问。"
+ ],
+ "sections": [
+  {
+   "heading": "课程概述",
+   "content": "本节课主要讲解了如何将TikTok用户引流至WhatsApp Business，通过设置短链接，让用户可以直接通过WhatsApp与我们联系。"
+  },
+  {
+   "heading": "下载WhatsApp Business",
+   "content": "在苹果手机的APP Store中搜索并下载WhatsApp Business，完成安装和验证过程。"
+  },
+  {
+   "heading": "获取WhatsApp Business短链接",
+   "content": "在WhatsApp Business中找到Shortlink，复制链接。"
+  },
+  {
+   "heading": "在TikTok添加链接",
+   "content": "在TikTok个人资料中添加Website，切换至商业账户，粘贴复制的链接，并保存。"
+  },
+  {
+   "heading": "验证链接设置",
+   "content": "确保链接保存成功，并检查链接是否正确显示在TikTok个人资料中。"
+  }
+ ],
+ "title": "168_第31课【新改版】第二十八节：使用TikTok引流到what_720p",
+ "duration": 166.74,
+ "model": "glm-4-flash",
+ "chars": 945,
+ "ts": "2026-07-25 17:35:04"
+}

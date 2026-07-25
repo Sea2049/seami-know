@@ -1,0 +1,51 @@
+{
+ "summary": "掌握LinkedIn三个隐藏模块，保护客户信息，防范同行竞争。",
+ "keypoints": [
+  "注意LinkedIn三个隐藏模块的重要性，保护客户信息和开发成果。",
+  "防范同行通过低价竞争抢夺客户信息。",
+  "调整Visibility模块，隐藏联系人及关注人信息。",
+  "根据目的灵活调整隐私设置，确保信息可见性符合目标。",
+  "查阅目标客户时，根据访问意愿设置可见或不可见。",
+  "了解客户使用LinkedIn频率，合理判断添加和私信策略。",
+  "connections模块必须隐藏，follow模块根据情况设置。"
+ ],
+ "sections": [
+  {
+   "heading": "LinkedIn隐藏模块重要性",
+   "content": "使用LinkedIn时，需注意三个模块灵活隐藏，保护客户信息和开发成果。"
+  },
+  {
+   "heading": "同行竞争风险",
+   "content": "同行可能获取客户信息，通过低价竞争抢夺客户，需防范。"
+  },
+  {
+   "heading": "账户设置操作",
+   "content": "进入设置页面，调整Visibility模块，隐藏联系人及关注人信息。"
+  },
+  {
+   "heading": "隐私模式应用",
+   "content": "根据目的选择Profile Viewing Options，灵活调整隐私设置。"
+  },
+  {
+   "heading": "灵活调整隐私模式",
+   "content": "根据需求灵活调整Private Mode模式，确保信息可见性符合目标。"
+  },
+  {
+   "heading": "查阅目标客户原则",
+   "content": "查阅目标客户时，根据是否希望对方知道你的访问，设置可见或不可见。"
+  },
+  {
+   "heading": "理解客户使用频率",
+   "content": "了解客户使用LinkedIn的频率，合理判断添加和私信策略。"
+  },
+  {
+   "heading": "connections模块设置",
+   "content": "connections模块必须设置为隐藏，follow模块根据情况设置。"
+  }
+ ],
+ "title": "13.使用LinkedIn需要灵活隐藏的三个模块",
+ "duration": 638.22,
+ "model": "glm-4-flash",
+ "chars": 4513,
+ "ts": "2026-07-25 17:50:45"
+}

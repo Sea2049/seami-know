@@ -1,0 +1,56 @@
+{
+ "summary": "本课深入解析国际支付中SWIFT和BIC号码的查询与使用要点。",
+ "keypoints": [
+  "SWIFT和BIC是国际支付中不可或缺的银行间电文沟通标识。",
+  "付款、谈判、退款、开证等环节需提供Swift Number或BIC号码。",
+  "SWIFT为环球同业银行金融电讯协会，BIC为银行识别码，唯一标识银行。",
+  "BIC由8-11位字母数字组成，包含银行代码、国家代码、地区代码和分行代码。",
+  "通过开户银行、官方代理公司或SWIFT官网可查询BIC号码。",
+  "SWIFT官网提供BICsearch功能，方便查询对应BIC号码。",
+  "验证BIC号码确保银行付款无误，账户可接受收款。",
+  "本节课重点讲解了SWIFT与BIC号码的查询和使用方法。"
+ ],
+ "sections": [
+  {
+   "heading": "课程主题",
+   "content": "讲解国际支付中的Swift和BIC问题"
+  },
+  {
+   "heading": "Swift和BIC应用",
+   "content": "付款、谈判、退款、开立信用证等需提供Swift Number或BIC号码"
+  },
+  {
+   "heading": "Swift和BIC背景",
+   "content": "Swift为环球同业银行金融电讯协会，提供银行间电文沟通；BIC为银行识别码，唯一标识银行"
+  },
+  {
+   "heading": "BIC构成",
+   "content": "BIC由8-11位字母数字组成，包括银行代码、国家代码、地区代码和分行代码"
+  },
+  {
+   "heading": "SWIFT与BIC概述",
+   "content": "SWIFT与BIC是银行间通过SWIFT Message进行国际支付的重要标识。"
+  },
+  {
+   "heading": "BIC查询方法",
+   "content": "查询BIC可通过咨询开户银行或通过官方代理公司获取，或直接在网上查询。"
+  },
+  {
+   "heading": "SWIFT官网查询BIC",
+   "content": "登录SWIFT官网www.swift.com，使用BICsearch功能查询对应BIC号码。"
+  },
+  {
+   "heading": "BIC验证",
+   "content": "输入BIC号码进行验证，确认银行付款无问题，账户可接受收款。"
+  },
+  {
+   "heading": "课程回顾",
+   "content": "本节课重点讲解了SWIFT与BIC号码的查询和使用。"
+  }
+ ],
+ "title": "1.4 国际支付中的SWIFT和BIC问题",
+ "duration": 779.12,
+ "model": "glm-4-flash",
+ "chars": 4243,
+ "ts": "2026-07-25 17:55:28"
+}

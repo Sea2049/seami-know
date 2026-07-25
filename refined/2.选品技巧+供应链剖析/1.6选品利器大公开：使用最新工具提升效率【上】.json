@@ -1,0 +1,41 @@
+{
+ "summary": "本节课介绍了四种选品工具：Amazon Best Sellers、Google Trends、Keyword Planner和海关数据，以及Inpo Genius网站，帮助学员提升选品效率。",
+ "keypoints": [
+  "利用Amazon Best Sellers了解美国消费者偏好和热卖产品",
+  "通过Google Trends分析关键词搜索趋势，捕捉市场机会",
+  "使用Keyword Planner优化关键词布局，提升SEO和广告效果",
+  "海关数据提供客户采购和进口情况，辅助品类选择",
+  "Inpo Genius网站用于美国客户背调和市场调研"
+ ],
+ "sections": [
+  {
+   "heading": "选品工具概述",
+   "content": "本节课将介绍四种重要的选品工具，帮助学员提升选品效率。这些工具包括Amazon Best Sellers、Google Trends、Keyword Planner和海关数据，以及Inpo Genius网站。"
+  },
+  {
+   "heading": "Amazon Best Sellers",
+   "content": "Amazon Best Sellers是了解美国消费者偏好和热卖产品的直接途径，通过该工具可以获取实时更新的热卖产品信息，并根据不同产品类别进行筛选。"
+  },
+  {
+   "heading": "Google Trends",
+   "content": "Google Trends可以分析关键词搜索趋势，帮助学员捕捉市场机会。通过观察关键词搜索量的变化，可以预测产品趋势，及时调整选品策略。"
+  },
+  {
+   "heading": "Keyword Planner",
+   "content": "Keyword Planner用于优化关键词布局，提升SEO和广告效果。通过分析关键词的搜索量和竞争程度，可以制定更有效的关键词策略。"
+  },
+  {
+   "heading": "海关数据",
+   "content": "海关数据提供客户采购和进口情况，辅助品类选择。通过分析海关数据，可以了解不同产品的市场情况和客户需求，从而做出更明智的选品决策。"
+  },
+  {
+   "heading": "Inpo Genius网站",
+   "content": "Inpo Genius网站是一个免费使用的美国客户背调和市场调研工具。通过该网站，可以查询美国公司的详细信息，包括公司结构、股东情况、销售数据等，帮助学员进行市场调研和客户分析。"
+  }
+ ],
+ "title": "1.6选品利器大公开：使用最新工具提升效率【上】",
+ "duration": 393.3,
+ "model": "glm-4-flash",
+ "chars": 2292,
+ "ts": "2026-07-25 17:45:42"
+}

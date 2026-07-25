@@ -1,0 +1,51 @@
+{
+ "summary": "解析信用证By Payment和By Negotiation条款，强调UCP600要求及风险分析。",
+ "keypoints": [
+  "解析By Payment和By Negotiation条款定义及区别。",
+  "介绍UCP600对信用证付款方式的要求。",
+  "通过案例强调信用证到期日及付款流程的重要性。",
+  "分析By Payment条款的资金单向流动及无追索权特点。",
+  "探讨By Negotiation条款的资金双向流动及开证行拒付风险。",
+  "提供专业意见以帮助理解信用证条款。",
+  "提升信用证专业能力与自信。"
+ ],
+ "sections": [
+  {
+   "heading": "信用证付款条款解析",
+   "content": "讲解信用证中By Payment和By Negotiation条款的解析。"
+  },
+  {
+   "heading": "UCP600条款说明",
+   "content": "介绍UCP600关于信用证付款的要求，强调信用证必须明确付款方式。"
+  },
+  {
+   "heading": "信用证案例分析",
+   "content": "通过具体案例说明信用证到期日的重要性及付款流程。"
+  },
+  {
+   "heading": "By Payment与By Negotiation区别",
+   "content": "分析By Payment和By Negotiation的区别，包括付款方式、指定银行等。"
+  },
+  {
+   "heading": "By Payment条款概述",
+   "content": "资金单向流动，从开证行到指定国内银行，付款后终止，银行无追索权。"
+  },
+  {
+   "heading": "By Negotiation风险分析",
+   "content": "资金可能双向流动，存在开证行拒付风险，银行有追索权。"
+  },
+  {
+   "heading": "信用证条款专业意见",
+   "content": "提供专业意见，帮助同事、上司、下属和客户理解信用证条款。"
+  },
+  {
+   "heading": "提升专业能力与自信",
+   "content": "通过课程学习，提升信用证专业能力，增强自信。"
+  }
+ ],
+ "title": "1.5信用证条款的By Payment和By Negotiation解析",
+ "duration": 688.98,
+ "model": "glm-4-flash",
+ "chars": 4243,
+ "ts": "2026-07-25 17:55:33"
+}

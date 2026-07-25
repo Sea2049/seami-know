@@ -1,0 +1,31 @@
+{
+ "summary": "本节课介绍了不同贸易条款下的费用划分，重点分析了FCA、EBS/CAC、ISPS等费用的责任归属及协商方式。",
+ "keypoints": [
+  "FCA费用责任取决于交货地点，需注意区分FCA与FOB的不同。",
+  "EBS/CAC费用可协商由谁承担，实际操作中常计入Ocean Freight。",
+  "ISPS费用可协商支付方，多归入运费中。"
+ ],
+ "sections": [
+  {
+   "heading": "贸易条款费用划分概述",
+   "content": "本节课介绍了不同贸易条款下的费用划分，强调了费用责任划分的重要性。"
+  },
+  {
+   "heading": "FCA费用责任分析",
+   "content": "FCA费用责任取决于交货地点，需注意区分FCA与FOB的不同，避免报价错误。"
+  },
+  {
+   "heading": "EBS/CAC费用协商",
+   "content": "EBS/CAC费用可协商由谁承担，实际操作中常计入Ocean Freight，需注意与IncoTerms规定的一致性。"
+  },
+  {
+   "heading": "ISPS费用支付协商",
+   "content": "ISPS费用可协商支付方，多归入运费中，结算货币为美金，需与客户协商。"
+  }
+ ],
+ "title": "1.7 分析报价之费用责任划分",
+ "duration": 306.16,
+ "model": "glm-4-flash",
+ "chars": 1538,
+ "ts": "2026-07-25 17:38:03"
+}

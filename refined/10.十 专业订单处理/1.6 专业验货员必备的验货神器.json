@@ -1,0 +1,58 @@
+{
+ "summary": "本节课介绍了专业验货员必备的验货工具及其使用方法，旨在提高验货效率和准确性。",
+ "keypoints": [
+  "Air Stick用于标记问题位置，便于拍照和报告",
+  "优质数码相机能清晰捕捉细节，如色差问题",
+  "Bakl Scanner用于扫描包装上的条码，确保货物可扫码入库",
+  "3MTAP用于测试油漆和表面漆的附着力",
+  "Penton Card用于核对颜色色差，有不同类型适用于不同产品表面",
+  "QC Chop和QC inspected print用于标识已验货物，防止私自拆箱",
+  "卷尺用于测量尺寸，辅助报告制作",
+  "笔记本电脑用于记录和整理验货信息，生成报告",
+  "AQL Sheet用于根据AQL标准验货，确定合格或拒绝的货物数量",
+  "其他工具如湿度计、万用表等根据产品特性选择携带"
+ ],
+ "sections": [
+  {
+   "heading": "验货工具概述",
+   "content": "本节课介绍了专业验货员必备的验货工具，包括Air Stick、数码相机、Bakl Scanner、3MTAP、Penton Card、QC Chop、QC inspected print、卷尺、笔记本电脑和AQL Sheet等。这些工具有助于提高验货效率和准确性。"
+  },
+  {
+   "heading": "Air Stick的使用",
+   "content": "Air Stick用于在验货过程中标记问题位置，便于拍照和制作报告，提高报告的清晰度和准确性。"
+  },
+  {
+   "heading": "数码相机的选择",
+   "content": "验货员应携带优质数码相机，以便清晰捕捉产品细节，如色差等问题，确保报告的真实性。"
+  },
+  {
+   "heading": "Bakl Scanner的应用",
+   "content": "Bakl Scanner用于扫描包装上的条码，确保货物可扫码入库，避免因条码问题导致的货物入库困难。"
+  },
+  {
+   "heading": "3MTAP和Penton Card的使用",
+   "content": "3MTAP用于测试油漆和表面漆的附着力，Penton Card用于核对颜色色差，确保产品颜色符合要求。"
+  },
+  {
+   "heading": "QC Chop和QC inspected print的作用",
+   "content": "QC Chop和QC inspected print用于标识已验货物，防止私自拆箱，确保货物质量。"
+  },
+  {
+   "heading": "卷尺和笔记本电脑的重要性",
+   "content": "卷尺用于测量尺寸，辅助报告制作；笔记本电脑用于记录和整理验货信息，生成报告。"
+  },
+  {
+   "heading": "AQL Sheet的应用",
+   "content": "AQL Sheet用于根据AQL标准验货，确定合格或拒绝的货物数量，确保货物质量符合标准。"
+  },
+  {
+   "heading": "其他工具的选择",
+   "content": "根据产品特性选择携带其他工具，如湿度计、万用表等，以提高验货效率和准确性。"
+  }
+ ],
+ "title": "1.6 专业验货员必备的验货神器",
+ "duration": 436.21,
+ "model": "glm-4-flash",
+ "chars": 2672,
+ "ts": "2026-07-25 17:12:48"
+}

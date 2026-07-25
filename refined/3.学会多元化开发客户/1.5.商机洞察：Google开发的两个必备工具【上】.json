@@ -1,0 +1,40 @@
+{
+ "summary": "本节课介绍了Google开发的两个市场调研工具Market Finder和Google Trans，帮助外贸人员洞察商机，为产品推广和客户开发提供数据支持。",
+ "keypoints": [
+  "Market Finder可帮助分析产品适合的市场区域，提供市场进入的参考依据。",
+  "Google Trans用于调研客户信息，了解客户公司情况和产品信息。",
+  "通过对比竞争对手的官网，可以推测适合的市场。",
+  "Google的大数据工具为产品推广提供市场方向参考。"
+ ],
+ "sections": [
+  {
+   "heading": "一、市场调研的重要性",
+   "content": "市场调研是外贸工作中不可或缺的一环，通过调研了解产品适合的市场和客户需求，为决策和客户开发提供数据支持。"
+  },
+  {
+   "heading": "二、Google调研工具介绍",
+   "content": "1. Google Trans：用于调研客户信息，了解客户公司情况和产品信息。\n2. Market Finder：分析产品适合的市场区域，提供市场进入的参考依据。"
+  },
+  {
+   "heading": "三、Market Finder的使用方法",
+   "content": "将官网网址输入Market Finder，选择产品类别，即可得到产品适合的市场区域分析。"
+  },
+  {
+   "heading": "四、Market Finder的应用案例",
+   "content": "通过Market Finder，可以了解产品在全球和特定国家市场的适合度，为市场推广提供参考。"
+  },
+  {
+   "heading": "五、Google Trans的应用案例",
+   "content": "通过Google Trans，可以了解客户公司情况和产品信息，为产品推广和客户开发提供依据。"
+  },
+  {
+   "heading": "六、总结",
+   "content": "Google开发的Market Finder和Google Trans是外贸人员必备的市场调研工具，能够帮助洞察商机，为产品推广和客户开发提供数据支持。"
+  }
+ ],
+ "title": "1.5.商机洞察：Google开发的两个必备工具【上】",
+ "duration": 468.56,
+ "model": "glm-4-flash",
+ "chars": 2549,
+ "ts": "2026-07-25 17:46:41"
+}

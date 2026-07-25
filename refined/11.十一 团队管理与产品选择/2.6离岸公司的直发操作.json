@@ -1,0 +1,51 @@
+{
+ "summary": "本课深入探讨离岸公司直发操作模式，分析其流程、特点及挑战，强调诚信与流程简化的重要性。",
+ "keypoints": [
+  "Dropship操作模式在欧美及港台地区广泛应用，涉及供应商、贸易公司和客户之间的互动。",
+  "Dropship与Jobship的区别在于直接发货给最终客户。",
+  "Dropship在全球化采购中应用广泛，对贸易公司和业务员带来挑战。",
+  "离岸公司直发操作特点为供应商间单一线物流，无其他联系。",
+  "诚信是Dropship操作的关键，确保业务顺利进行。",
+  "通过隔离措施如货袋、单据处理避免工厂直接接触客户。",
+  "Dropship流程简化，工厂直发减少手续麻烦。"
+ ],
+ "sections": [
+  {
+   "heading": "Dropship概述",
+   "content": "介绍Dropship操作模式及其在欧美及港台地区的应用情况。"
+  },
+  {
+   "heading": "Dropship操作流程",
+   "content": "分析Dropship的具体操作流程，包括供应商、贸易公司和客户之间的互动。"
+  },
+  {
+   "heading": "Dropship与Jobship",
+   "content": "解释Dropship与Jobship的区别，强调直接发货给最终客户的概念。"
+  },
+  {
+   "heading": "Dropship的应用与挑战",
+   "content": "探讨Dropship在全球化采购中的应用，以及对于贸易公司和业务员带来的挑战。"
+  },
+  {
+   "heading": "离岸公司直发操作特点",
+   "content": "供应商间单一线物流，无其他联系。"
+  },
+  {
+   "heading": "Dropship操作关键",
+   "content": "最重要的是诚信，确保业务顺利进行。"
+  },
+  {
+   "heading": "客户与工厂隔离措施",
+   "content": "通过安排货袋、单据处理等方式，避免工厂直接接触客户。"
+  },
+  {
+   "heading": "Dropship流程简化",
+   "content": "工厂直发可简化流程，减少手续麻烦。"
+  }
+ ],
+ "title": "2.6离岸公司的直发操作",
+ "duration": 636.64,
+ "model": "glm-4-flash",
+ "chars": 4000,
+ "ts": "2026-07-25 17:20:04"
+}

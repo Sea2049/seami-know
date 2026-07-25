@@ -1,0 +1,37 @@
+{
+ "summary": "本节课介绍了ETL EU标识的背景、作用、优势及其与CE和GS标准的比较，为产品进入欧盟市场提供便捷途径。",
+ "keypoints": [
+  "ETL EU标识由InterTech提供，需对产品品质做担保，相当于保险机制。",
+  "ETL EU标识提升消费者信心，比简单的CE标识更具保障。",
+  "ETL EU标识可降低进入欧盟市场的门槛，简化测试流程。",
+  "ETL EU标识适用于满足美加和欧盟测试要求的产品。",
+  "ETL EU标识与CE标识需同时使用，GS标准比ETL EU和CE标准更严格。"
+ ],
+ "sections": [
+  {
+   "heading": "ETL EU标识概述",
+   "content": "ETL EU标识由InterTech提供，允许在产品包装上使用，前提是对产品品质做担保。该标识相当于保险机制，一旦产品在欧盟出现问题，消费者可向InterTech投诉。"
+  },
+  {
+   "heading": "ETL EU标识的优势",
+   "content": "ETL EU标识提升消费者信心，比简单的CE标识更具保障。第三方测试和认证有助于证明产品品质。"
+  },
+  {
+   "heading": "ETL EU标识的应用场景",
+   "content": "ETL EU标识适用于满足美加和欧盟测试要求的产品，简化测试流程，降低进入欧盟市场的门槛。"
+  },
+  {
+   "heading": "ETL EU标识与CE、GS标准的比较",
+   "content": "ETL EU标识与CE标识需同时使用，GS标准比ETL EU和CE标准更严格。GS标准是德国最高标准，非强制性，但要求更高。"
+  },
+  {
+   "heading": "ETL EU标识的使用注意事项",
+   "content": "ETL EU标识与CE标识需同时使用，不可单独使用ETL EU标识代替CE标识。"
+  }
+ ],
+ "title": "3.0欧盟跨界标识ETL-EU解析-2",
+ "duration": 541.72,
+ "model": "glm-4-flash",
+ "chars": 3086,
+ "ts": "2026-07-25 17:14:27"
+}

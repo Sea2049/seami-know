@@ -1,0 +1,14 @@
+# Generated / local only
+__pycache__/
+*.pyc
+_refine*.log
+_refine_status.json
+_test_*.py
+_test_*.txt
+_preview_*.txt
+.env
+.env.*
+*.local
+
+# Optional: keep refined cache locally; re-run refine.py after clone if needed
+# refined/
