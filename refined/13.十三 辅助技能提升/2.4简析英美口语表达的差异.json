@@ -52,5 +52,15 @@
  "duration": 572.33,
  "model": "glm-4-flash",
  "chars": 3910,
- "ts": "2026-07-25 17:26:45"
+ "ts": "2026-07-25 17:26:45",
+ "readable": [
+  "本节课我们将简析英美口语表达的差异。由于很多英语学习者可能经常随口说出含有英国话或美国话单词的句子，这在外国人听来可能会显得很怪异。因为英国人讲英语，美国人讲美语，其他国家的人一般来说要么遵循英国规则，要么遵循美国规则，都有偏向，不是完全正确或错误。所以，在选择和讲解时，我们往往不自觉地偏向于某一种语气，比如很多人喜欢英式口音和表达，有些人则喜欢美国人的自然。在工作中，我们需要注意遵循一种原则，尽量深化这种原则和方式，避免让客人觉得我们的表达很怪异。",
+  "为了让大家检测自己的英文是英式还是美式，或者四不像，我们先来看几个例子。比如，'Could you tell me the way to the subway'，这句话中'underground'是英国地铁的称呼，而美国则称为'subway'。再比如'Do you like a house or a flat'，'Flat'是英式英语中的公寓，而在美国更常用'Apartment'。还有'I'm on vacation these days and will be back to office next Monday'，'Vacation'是美式英语中的休假，而英国则用'Holiday'。最后一句'Could you please send me the off-sheet for your off-flashlight'，'Flashlight'在美国是手电筒的意思，而在英国则称为'torch'。通过这些例子，我们可以看出英式和美式英语在词汇和表达上的差异。",
+  "在口语中，这些差异可能不太容易体会，但在写邮件时一定会用到。比如，'catalog dialogue'，美式英语中省略了'u'和'e'，拼写更简单，而英国英语则保留了传统拼写。再比如'color'，英式表达比美式表达多了一个'r'。这些细节需要注意，尽量选用一种表达方式，避免混用，这对提高英语能力只有帮助。",
+  "英国英语中，如 'meeter', 'center' 等词以 're' 结尾，而美国英语则以 'er' 结尾。例如，'gram', 'kilogram' 在英国拼写为 'gramme', 'kilogramme'，而在美国则直接以 'm' 结尾。又如 'encyclopedia'，英国拼写为 'encyclopaedia'，而美国则省略了 'a'。虽然拼写不同，但词汇本身是相同的。",
+  "在语法方面，美式英语较少使用完成时态，通常使用一般过去时。而英式英语则较为传统，使用现在完成时和过去完成时较多。例如，'I sent you the opposite already' 在美式英语中可以写作 'I sent the opposite to you already'，但在英式英语中则必须使用完成时态，即 'I have sent you the opposite already'。此外，'I have sent you the opposite already' 也可以用被动语态表达，即 'The offer sheet has been sent to you already'。在英式英语中，由于过去发生的事情对现在有影响和结果，所以必须使用现在完成时。",
+  "在撰写邮件时，需要注意使用美式英语时，完成时使用较少，过去完成时较多，而现在完成时更少。在英式英语中，如果使用英式拼写、口音和电子邮件，则要注意区分一般过去时、现在完成时和过去完成时。当然，英美的语法差异还有很多，这里只是简单举例。有兴趣的朋友可以查阅相关资料和教材进行学习。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:04:48"
 }

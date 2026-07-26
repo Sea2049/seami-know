@@ -38,5 +38,10 @@
  "duration": 130.54,
  "model": "glm-4-flash",
  "chars": 699,
- "ts": "2026-07-25 18:00:02"
+ "ts": "2026-07-25 18:00:02",
+ "readable": [
+  "大家好，我是Edan。今天我们来到商务英语课程的成功下单环节。之前我们已经进行了价格谈判、付款方式谈判等，现在客户准备下单了。我们询问客户是否准备好下单。英文中，下单称为'price order'。接下来，我们来看一下必备的职位和术语。'order'指的是订购，'intend'表示打算，'substantial order'是大宗订单，类似'bulk order'。'minimum quantity'是最低订货量，也可以称为'MOQ'，即'Minimum Order Quantity'。'execution'表示执行，'celebrate'是庆祝，'cash payment'是现金支付，'price and order'是下单，'this patch'是发货，'order form'是订单表，'delivery'是交货，'reasonable'表示合理的。我们的价格是合理的，即'reasonable price'。如果出现短缺，可以使用'35 check'。接下来，我们会给大家讲解一些好用的句子和对话。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:18:30"
 }

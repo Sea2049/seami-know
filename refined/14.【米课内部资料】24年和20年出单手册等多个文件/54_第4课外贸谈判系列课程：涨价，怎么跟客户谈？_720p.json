@@ -36,5 +36,10 @@
  "duration": 221.4,
  "model": "glm-4-flash",
  "chars": 1233,
- "ts": "2026-07-25 17:31:09"
+ "ts": "2026-07-25 17:31:09",
+ "readable": [
+  "在产品价格不得不进行调整时，应提前向客户做好展假的预告，避免突然涨价造成客户的不满。一般来说，提前一个月通知客户是比较合适的。在预告中，应说明降价的原因，如原材料成本上升、行业整体情况等，让客户了解降价并非公司主动为之。同时，告知客户预计的降价比例和时间，以便他们评估影响。此外，可以利用降价预告的机会，鼓励客户尽快下单，以享受现有价格。在与客户沟通时，可以参考以下范本：\n\nDear [客户名称]，\n\nGood day,\n\nPlease be noted due to the recent price increase of raw materials, all ABC product prices will be adjusted from November 2021. Please be noted about this.\n\nShould you have any orders or inquiries within this month, please send them to us at your earliest convenience. We can arrange production for you beforehand to ensure timely delivery.\n\nBest regards,\n[您的名字]\n\n这个范本仅供参考，您可以根据实际情况调整邮件内容，以更好地与客户沟通。关于如何与客户谈展假，今天的分享就到这里，感谢大家的参与。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:14:42"
 }

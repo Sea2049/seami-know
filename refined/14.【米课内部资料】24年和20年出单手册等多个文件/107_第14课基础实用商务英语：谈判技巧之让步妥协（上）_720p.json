@@ -58,5 +58,24 @@
  "duration": 822.13,
  "model": "glm-4-flash",
  "chars": 5088,
- "ts": "2026-07-25 17:32:21"
+ "ts": "2026-07-25 17:32:21",
+ "readable": [
+  "大家好，我是Ellen。上一节课我们讲解了讨价还价的环节，这节课我们将讨论让步妥协的重要性。在谈判过程中，如果双方僵持不下，可能难以达成一致，最终可能导致订单暂时搁置或取消。因此，在谈判中，妥协和让步是必不可少的。我们可以用‘let's compromise’或‘let's meet each other halfway’来表达各退一步的意思。",
+  "接下来，我们来看一些必备的商务英语词汇和表达。例如，‘dear’表示交易，‘call this deal off’表示取消交易，‘unrealistic’表示不切实际的，与‘realistic’（实际的）相对。还有‘make a concession’表示让步，‘insist on’表示坚持，‘come to an agreement’表示达成协议，‘give someone a break on the price’表示给某人降价，‘as requested’表示按照要求，‘at once request’和‘at your request’都表示应某人的要求。这些词汇和短语都是商务谈判中常用的，需要记住。",
+  "在表达让步时，可以说‘那我们就各让一步吧’或‘let's meet each other halfway’。‘halfway’表示半途中，‘meet halfway’即在半途中见面，意味着各退一步。‘let's compromise’和‘let's meet each other halfway’这两句话的意思相同。另外，‘if you can make a concession, I think we can discuss this further’表示如果你能做出让步，我们还可以进一步讨论。‘I'm sure there's some room for negotiation’表示我确信还有商量的余地。‘We are always waiting to cooperate with you and if necessary make some concessions’表示我们总是愿意与你合作，并在必要时做出让步。",
+  "为了达成交易，可以说‘为了做成这笔交易，我们双方都做一些让步怎么样呢？’这里的‘in order to’表示为了做某事，‘make the business concluded’表示达成交易。‘how about meeting each other halfway and make a concession’也是同样的意思。‘making a concession’表示做出让步，这里的‘about’是介词，所以后面跟动词的ing形式。这些都是让步的表达方式，需要记住。",
+  "更深入的表达方式包括‘为了做成这笔交易，我们双方都做出让步’和‘我们准备重新考虑修改合同’。‘be prepared to’表示准备好做某事，‘reconsider’表示重新考虑，‘amend’表示修改，‘amend the contract’表示修改合同。如果想要修改，可以说‘如果你想要改变的话，还可以对计划稍作修改’。这里的‘minor’表示小的，‘alternation’表示修改，类似于‘modification’或‘amendments’。‘if you want to make any changes’表示如果你想要改变的话，‘minor or alternations can be made’表示我们还可以对计划稍加修改。",
+  "我们已经按照商定的计划，安排在周五将产品送出。",
+  "在谈判的最后阶段，双方已经达成一致。",
+  "如果你觉得某个让步不可接受，可以说‘恐怕不行’，并说明原因，比如‘这不在我的工作范围内’。",
+  "你可以提出需要更多时间来考虑这个要求，例如客户要求在10月底交货，你可以表示需要更多时间来考虑。",
+  "在汇款前，你应该等待收到确认通知。",
+  "如果你不认识货书，没有执行，坚持你们的价格，可能会被认为是没有意义的。",
+  "如果对方坚持自己的价格而不做任何让步，就没有必要再进行进一步的讨论。",
+  "达成一致后，可以说‘很高兴我们在价格上达成一致’，并考虑未来的合作。",
+  "如果你想做出让步，可以说‘如果你能接受我们的价格，我们可以进一步商谈’。",
+  "‘If you can’和‘Maybe we can talk more about this’都是表示同意对方提议的表达方式。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:18:20"
 }

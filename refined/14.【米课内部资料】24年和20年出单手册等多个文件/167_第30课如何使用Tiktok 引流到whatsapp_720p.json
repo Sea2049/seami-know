@@ -36,5 +36,10 @@
  "duration": 82.99,
  "model": "glm-4-flash",
  "chars": 485,
- "ts": "2026-07-25 17:34:59"
+ "ts": "2026-07-25 17:34:59",
+ "readable": [
+  "大家好，我是Ilan。今天我们来到了第28节课，讲解如何使用TikTok in-lil到WhatsApp，为我们的B2B平台引流。如果你是做B2B外贸的，肯定希望通过TikTok让更多客户主动找到你并联系你。那么在你的账号上挂上一个WhatsApp的链接，肯定是一个最佳选择。因为现在做外贸的，其实很多都是通过WhatsApp与客户联系的。那么这个操作该怎么做呢？接下来我会演示。首先在APP Store里搜索WhatsApp Business，下载并安装，然后注册一个账号。注册完成后，打开WhatsApp Business，在设置中找到Business Tools，点击进入，拉到下面找到Short Link，点击复制链接。然后回到我们的海外抖音TikTok，点击编辑资料，在BIO这里把复制的链接粘贴进去，然后在首页就可以看到我们的WhatsApp账号了。如果大家还有问题，也可以提出来，我们非常乐意为大家解答。好了，这节课就上到这里了，谢谢大家。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:22:21"
 }

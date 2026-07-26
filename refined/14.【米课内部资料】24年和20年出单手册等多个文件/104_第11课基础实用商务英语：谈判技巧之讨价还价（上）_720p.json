@@ -52,5 +52,16 @@
  "duration": 653.66,
  "model": "glm-4-flash",
  "chars": 4030,
- "ts": "2026-07-25 17:32:09"
+ "ts": "2026-07-25 17:32:09",
+ "readable": [
+  "大家好，我是Alan。今天我们来到了三文一语口语课程的第三节，讨论讨价还价。在生意场上，讨价还价其实是一门学问，就像三军作战，讲究策略，不是随便谈一谈客户就会下订单。在讨价还价的过程中，我们最理想的结果是获得理想的价位，同时对方也没有觉得吃亏，双方都比较愉快地达成订单。那么，我们如何用英语进行讨价还价呢？客户可能会问‘价格可以再低一点吗？’英文可以说‘Could you come down a little？’在谈判过程中，学习它的表达和句子之前，我们先来看一些必备的词汇。比如‘agree to’接受、同意，‘rock bottom price’最低价，‘price range’价格范围，‘commission’佣金，‘total value’总值，‘customs duty’关税，‘whole sale price’批发价，‘retail price’零售价，‘special deal’特殊优惠，‘over’报价，‘pricedest’价格表，‘wired speculation’漫天要价。这些词汇大家回去一定要记下来并学会使用。接下来，我们看一些必备的句子，比如‘It's the lowest price’这是最低价，‘letters give you a rock bottom price’我们给你一个最低价吧。表达最低价的方式有几种，大家回去要多复习多练习。如果客户对我们的价格不满意，可以说‘The price is too high’价格太高了，或者‘The price is unacceptable’这个价格令人难以接受。作为采购方，我们可以说‘I'm afraid we can agree to the price’恐怕我们不能接受这个价格，或者‘The price is far beyond our budget’价格跟我们的预算差太多了。在询问客户目标价时，我们可以说‘Do you have a budget？’预算就是预算的意思，‘I'm afraid we can't accept your offer’我们无法接受你们的报价。如果客户说‘你们的价格太贵了，比其他人的都要贵很多’，我们可以说‘Your price is much higher than that of other companies’你的价格比其他的公司要高很多。这些表达在实际应用中非常常用。",
+  "当对方表示你们的价格比其他公司高时，可以回应说‘你们的价格比别人要贵太多了’或者‘你们的价格比别人要贵出了30%’。",
+  "接下来，如果对方要求报价，可以表达自己的看法，例如‘我们觉得多少价位会更加合适’。",
+  "如果价格高于预期，可以说‘如果价格比这个还要高，那么我们就会放弃这一笔生意’。",
+  "如果对方能保证价格与上次相同，可以回应‘如果你能保证和上次一样的价格，或许我们还能继续再谈’。",
+  "在谈判中，会用到各种价格的表达方式，如‘最高价’、‘最低价’、‘成本价’、‘特价’、‘批发价’、‘零售价’等，需要将这些表达方式记下来。",
+  "在与客户交流时，可以强调关注成本而非价格，例如‘我根本就不在意价格是多少，我更加在意的是总的成本’。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:18:05"
 }

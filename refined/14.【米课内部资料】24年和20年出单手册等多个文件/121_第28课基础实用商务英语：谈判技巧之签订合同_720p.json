@@ -33,5 +33,10 @@
  "duration": 95.46,
  "model": "glm-4-flash",
  "chars": 564,
- "ts": "2026-07-25 17:32:45"
+ "ts": "2026-07-25 17:32:45",
+ "readable": [
+  "大家好，我是Len。今天我们来到商务云与谈判的最后一课，学习签订合同。之前我们已经讨论了价格、底线、付款方式以及双方的补充条款和协议。接下来就是签订合同了，合同的细节也已经看得很清楚。如果在签订合同之前，你想要再看一遍，可以说‘I'd like to look this over before I sign it’，意思是‘签订之前我想要再看一遍’。接下来，我们来看一下签订合同必备的词汇。合同（contract），合同签字签名（signature），我们在签订合同时通常需要签字签名。Make a concession（做出让步），Make a compromise（妥协，与make a concession意思相同）。Cross（条款），Sign a contract（签订合同）。Ramitance（汇款），Agrreement（协议，合同）。Brain up（提出），Obitration（重裁），arbitration（仲裁）。Modification（修改），quotation（报价），sears contract（销售合同）。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:18:39"
 }

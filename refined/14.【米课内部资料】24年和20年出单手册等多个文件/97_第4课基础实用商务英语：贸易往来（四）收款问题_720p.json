@@ -73,5 +73,26 @@
  "duration": 775.64,
  "model": "glm-4-flash",
  "chars": 5608,
- "ts": "2026-07-25 19:20:19"
+ "ts": "2026-07-25 19:20:19",
+ "readable": [
+  "在商务预约口域，我们来到了贸易往来课程的第四节课，主题是收款问题。在贸易活动中，收款和付款是不可避免的环节。遇到此类问题时，与客户沟通时，切记不要急躁，也不要失礼，要保持诚恳和礼貌。不要轻易怀疑客户的信用，但对于故意拖欠款项的客户，我们必须强硬且坚决。接下来，我们将学习如何表达催款。",
+  "关于催款，我们应如何向客户表达呢？首先，我们学习一句常用表达：‘请立即支付所欠款项’。接下来，我们学习一些关键词汇：ignore（忽视）、advance payment（预付款，也可称为deposit）、appraise（称赞）、preserve（保持）、endeavor to do something（致力于做某事）、credit standing（信用状况）、overdue payment balance（逾期付款余额）、overdue balance（逾期余额）、remind of（提醒）、in charge of（负责）、confirm（确认）、delay（延期）、promptly（及时）。这些词汇是我们必备的。",
+  "以下是一些句子的表达示例：‘请问您有收到我们提醒您关于您与我们之间未结余额的信件吗？’‘您没有回复我们关于您逾期余额2000美元的第一封提醒。’‘我提醒您支付剩余的5000美元，但未收到任何回复。’‘您什么时候能安排付款？’‘保持良好的信用记录对我们来说非常重要。’如果已知对方故意不付款，我们在沟通时语气应强硬。例如：‘付款现在已拖欠两个月了。’‘我们的发票要求在60天内支付款项。’‘很抱歉，恐怕您得先支付全款。’‘除非我们在1月19日之前收到款项，否则我们必须采取适当的行动。’此外，我们曾遇到一个客户，第一次未及时付款，第二次还要求延期付款，我们拒绝了。这就是一朝被蛇咬，十年怕井绳。一旦出现拖欠，第二次、第三次我们一定要更加谨慎。",
+  "在对方遵守诺言或付款时，我们要及时表扬，例如说‘You always make your payment promptly’。这会让客户感到自豪，因为他们公司的实力或规定得到了认可。",
+  "在商务交流中，以下是一些常用的付款相关短语：Terms of payment（付款条件）、Transfer payment（转移支付）、Full payment（全款付款）。这些短语需要我们记住。",
+  "例如，在提醒客户关于逾期账目的邮件中，可以这样写：‘We have not received any response from you to the recent reminder we sent you on May 20th about your overdue account’。这个句子较长，可以分成几部分来读。",
+  "在处理财务困难时，可以这样表达：‘Sorry, I have received your letter, but we are facing a financial difficulty’。这表明了对方已经收到信件，但同时也说明了当前的困境。",
+  "在处理紧急付款要求时，可以说：‘We're attending to it, the first thing tomorrow’。这表明会立即处理。",
+  "在确认对方无意忽视逾期通知时，可以说：‘I'm sure it is not your intention to ignore past due notices’。这里的‘intention’指的是目的。",
+  "在延迟付款的请求中，可以这样表达：‘Sorry about the delay, we want to ask if we could defer payment until the end of the month’。这表明了延迟付款的意愿。",
+  "在收到付款后，及时告知客户是很重要的，这有助于保持良好的关系。",
+  "在表扬客户及时付款时，可以说：‘We applaud you for always paying your bill on time’。同时强调保持良好信用记录的重要性，例如：‘Preserving a fine credit standing means a great deal to us’。",
+  "在表达对客户满意时，可以说：‘We endeavor to provide our customers with the best product possible’。这表明了致力于提供优质产品的承诺。",
+  "情景对话中，提醒客户付款可以这样进行：‘I send you an email as a reminder of your overdue balance of $5,000, but I did not get any reply’。然后确认对方是否收到邮件，并询问付款安排。",
+  "在处理付款问题时，表达感谢和合作的重要性是必要的，例如：‘Your cooperation will be highly appreciated’。",
+  "大家也要尽可能学会相关内容。",
+  "感谢大家的参与。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:17:30"
 }

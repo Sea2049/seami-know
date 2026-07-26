@@ -38,5 +38,23 @@
  "duration": 384.57,
  "model": "glm-4-flash",
  "chars": 2562,
- "ts": "2026-07-25 18:00:04"
+ "ts": "2026-07-25 18:00:04",
+ "readable": [
+  "接下来我们进入讨论产品质量的环节，这是谈判中的重要一环。",
+  "在谈论质量时，可以说‘我们的产品质量上乘’，英文为‘Our products are of great quality’。",
+  "我们还可以向对方保证产品质量，例如说‘I can assure you the quality of our product’。",
+  "接下来，我们将通过实景对话环节来实际应用这些技巧。",
+  "实景对话是实际应用的过程，我们应该如何使用呢？首先，可以说‘Welcome to our factory’来欢迎对方。",
+  "当对方欢迎你时，你应该表示感谢，并表达美好的希望，例如‘Thank you. I'm glad to be here. And I hope we'll come out from this meeting as winners.’",
+  "记住，要找到共同点，即‘find a common ground’。这是我们的共同利益，希望你能考虑我先前提出的建议。",
+  "在谈判中，可以说‘I hope you may make some compromise’来希望对方做出妥协。",
+  "使用‘compromise’或‘concession’表示妥协或让步，例如‘I also want to, but you would have to insist if you would mean’。",
+  "表达出即使是你也会坚持自己的立场，例如‘If you were me, you would know how hard it is for me to make such a decision’。",
+  "在谈判中，如果存在分歧，可以说‘We seem to have problem in item 13’来指出问题。",
+  "提出你的立场，例如‘Our position is you can get this service for free, but you insist so’。",
+  "提出妥协的建议，例如‘Can we make a compromise here? How about you offer us a trial period first?’",
+  "寻找双方都能接受的解决方案，例如‘So let's find good’。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:18:25"
 }

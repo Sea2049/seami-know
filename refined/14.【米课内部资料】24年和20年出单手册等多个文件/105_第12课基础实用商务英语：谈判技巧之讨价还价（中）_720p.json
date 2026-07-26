@@ -48,5 +48,27 @@
  "duration": 630.1,
  "model": "glm-4-flash",
  "chars": 4367,
- "ts": "2026-07-25 17:32:04"
+ "ts": "2026-07-25 17:32:04",
+ "readable": [
+  "接下来，我们来看一下实景对话，这是在实际应用过程中可能会用到的。例如，'Could you help us to negotiate a better price?' 这句话的意思是'你能帮我们协商出一个更好的价格吗？'，其中'negotiate'表示'协商'或'谈判'，'negotiate a better price'则是指'谈出一个更好的价格'。",
+  "在对话中，一方可能会说'I'd love to, but I will take some commission from the cut'，意思是'我很乐意，但是我会从降价中抽取一定的佣金'。这里的'cut'指的是'降价'。另一方可能会问'Is it possible for you to make a better offer?'，即'贵方能够再给出一个更好的价格吗？'，'make a better offer'表示'给出一个更好的价格'。",
+  "如果一方认为价格已经很低，他们可能会说'I don't think so. As I have said, we have cut the price by 4% at most. It's a rock bottom price.'，意思是'我觉得不可能了。正如我已说的，我们最多降价4%。这是我们的底价了'。",
+  "在谈判中，一方可能会重复报价，例如'I repeat our offer. The total sum is 500,000'，意思是'我重复我们的报价。总价是50万'。如果对方认为报价超出了他们的谈判限度，他们可能会说'The price you offer is beyond my negotiation limit'，即'你的报价超出了我的谈判限度了'。",
+  "如果谈判陷入僵局，一方可能会提出其他解决方案，比如'I report your offer to my manager, and we would like to reduce the price to 40,000 a year'，意思是'我把您的报价汇报给经理，我们希望将价格降低到每年四万美元'。这里的'report something to somebody'表示'把某事汇报给某人'。",
+  "我们希望将价格降低到每年40,000美元，但这个价格我们无法接受。",
+  "我们可以对合同进行一些修改，但这是最后的报价了。",
+  "我们的最终报价是每年78万美金，如果你们的价格高于这个，我们就不得不终止谈判。",
+  "如果你们的价格高于这个，我们就免谈。",
+  "这是我们的最终报价，每年78万美金，大家需要记住这个数字。",
+  "如果你的价值高了，我们必须要谈判，否则谈判将取消。",
+  "我们明天再继续谈判，需要重新考虑你们的出价。",
+  "记住，如果对方给出抵价，我们不能马上接受，一定要有谈判策略。",
+  "我们需要回去沟通一下，对吧，洽谈一下，团队讨论一下，重新核算一下。",
+  "昨天你已经拿到我们的底价了，你们的意见是什么？",
+  "如果你们的价格可以接受，但有个条件，如果贵方同意附加的保险条款，那么我们就接受你们的价格。",
+  "这种就是谈判的策略，当我们接受客户价格的时候，可以给客户提出一个条件。",
+  "我们也可以说，如果你们的价格可以接受，如果你们可以在本周内下单，或者确认其他人，这也是一个巧妙的吹单谈判话术。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:18:06"
 }

@@ -33,5 +33,10 @@
  "duration": 467.32,
  "model": "glm-4-flash",
  "chars": 2539,
- "ts": "2026-07-25 17:24:17"
+ "ts": "2026-07-25 17:24:17",
+ "readable": [
+  "本节课我们将对德国超市进行专题分析，主要介绍Aldi Nord和Aldi Sud。Aldi Nord是德国最大的超市，以中小型折扣超市为主，遍布德国及其他欧洲国家，甚至进入美国和澳洲。Aldi Nord在德国超市中排名第一，也是整个欧洲最大的超市。Aldi Nord和Aldi Sud实际上是同一个公司，分别代表北方和南方。Aldi Nord的经营理念是便利性，适合日常购物，而大型物品则推荐去其他超市购买。Aldi Nord的全名是Audi Group，由两兄弟的母亲在1913年创立，后发展成为德国最大的公司之一。Aldi Nord和Aldi Sud的总部都位于小镇，这体现了德国人的务实精神。Aldi Nord的全球版图覆盖欧洲、美国、澳大利亚和南美。截至2013年，Aldi Nord和Aldi Sud共有超过9600家门店，遍布全球多个国家和地区。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 17:58:15"
 }

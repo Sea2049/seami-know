@@ -28,5 +28,13 @@
  "duration": 175.12,
  "model": "glm-4-flash",
  "chars": 1028,
- "ts": "2026-07-25 17:31:02"
+ "ts": "2026-07-25 17:31:02",
+ "readable": [
+  "大家好，我是Elaine。今天我们来到外贸谈判环节，首先讲解的是价格谈判。在跟客户沟通和洽谈过程中，会遇到各种问题，比如客户觉得价格高或低，或者价格合理时客户又要考虑。这时，我们应该如何应对客户的问题，顺利拿下订单，这是我们课程要重点讲解的内容。",
+  "本课程分为三个部分：第一部分是客户说价格贵怎么办，这是外贸过程中常见的问题；第二部分是客户说考虑一下时我们该怎么办；第三部分是涨价该怎么跟客户谈。今年2021年，涨价一直不停，我们该如何让客户更容易接受涨价呢？",
+  "第一个章节重点讲解客户说价格贵怎么办。客户常说‘Your price is too expensive’、‘Your price is on the high side’或‘Your price is much more expensive than other suppliers’。当客户一直说我们价格贵时，我们应该如何应对，让客户更容易接受，甚至直接下单？",
+  "很多人会说‘Our product quality is very good’、‘Our price is very reasonable’或‘You pay for what you get’。但要注意，‘一分钱一分货’并不是随便可以使用的。正确的做法是分析客户的需求，然后制定相应的方案。分析客户时，首先我们要分析客户的需求。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:14:32"
 }

@@ -36,5 +36,10 @@
  "duration": 243.01,
  "model": "glm-4-flash",
  "chars": 1125,
- "ts": "2026-07-25 17:52:13"
+ "ts": "2026-07-25 17:52:13",
+ "readable": [
+  "在外贸业务中，我们经常会遇到不同的样品类型，如promotion sample、testing sample和production sample。首先，promotion sample指的是宣传样品，客户通常用于推广，可能需要用于拍摄宣传视频或图片，甚至上传到YouTube。其次，testing sample是测试样品，客户可能需要用于检测或认证，以确保产品质量。最后，production sample是生产样品，也就是大货样品，通常从生产完成的产品中随机抽取。此外，还有pre-production sample，即生产前的样品，也称为PP样。了解这些样品类型对于与客户沟通非常重要，有助于准确传达信息，提高工作效率。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 19:19:37"
 }

@@ -37,5 +37,17 @@
  "duration": 527.81,
  "model": "glm-4-flash",
  "chars": 2924,
- "ts": "2026-07-25 17:20:38"
+ "ts": "2026-07-25 17:20:38",
+ "readable": [
+  "Bronze Extension，即品牌延伸，指的是一个主品牌下带有多个子品牌。例如，一个拉杆箱公司Lagage Case Company，其主品牌可能是Splendid，旗下有Splendid系列塑料拉杆箱。后来，公司又推出卡通造型和图案设计感较强的拉杆箱，可以以主品牌命名，如Splendid Red，这样消费者就能一眼看出这是主品牌的子品牌。类似地，意大利品牌Voluntino通过主品牌Giovanni Valentino带动副牌Voluntino Red，实现品牌区分的同时带动副牌发展。这就是Bronze Extension的一种做法。",
+  "Brown Extension的目的是为了开拓第二市场，即细分市场。例如，一个做钱包的公司，如果其高端产品定位为50美元，而市场上有客户需要20美元的产品，公司可以推出副牌来满足这部分需求，避免损害主品牌形象。Bronze Extension的目的是为了赚钱，即通过拓展产品线来增加收入。例如，服装品牌Alexander Wang推出副牌T by Alexander Wang，满足喜欢其品牌但预算有限的消费者。同样，Prada也推出副牌Milmio，吸引中低端消费者，而不损害主品牌形象。",
+  "Milmio的定价整个系列会低于Prada。",
+  "比如，我们之前提到的Valentino。",
+  "Valentino本身是意大利的一线品牌。",
+  "为了解决同样的盈利问题，Valentino需要赚取更多的钱。",
+  "因此，它推出了一系列副牌，并生产了一系列更年轻的产品。",
+  "这一系列产品被称为Red Volantino。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 17:53:15"
 }

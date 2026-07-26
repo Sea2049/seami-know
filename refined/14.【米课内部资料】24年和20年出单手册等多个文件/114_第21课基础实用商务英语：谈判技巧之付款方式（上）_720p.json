@@ -37,5 +37,23 @@
  "duration": 562.6,
  "model": "glm-4-flash",
  "chars": 3558,
- "ts": "2026-07-25 17:32:32"
+ "ts": "2026-07-25 17:32:32",
+ "readable": [
+  "大家好，欢迎来到商务英语口语课程，今天我们学习商务谈判的第七个环节——付款方式的谈判。在价格谈妥并双方做出让步后，接下来就是讨论付款方式。在外贸过程中，付款方式有多种，之前已经分享过相关信息。",
+  "如果对方提出对付款方式的不满，可以询问‘How would you like to handle the payment terms？’即‘你们想要怎样处理付款条款？’。反之，如果客户询问付款方式，可以说‘What would be the payment terms？’即‘付款方式是什么样的？’。",
+  "接下来，我们来看一些必备词汇：Terms of payment（付款方式）、Irrevocable（不可撤销的）、Remit（汇款）、Letter of Credit（信用证）、Draft（汇票）、International Business（国际贸易）或Foreign Trade（对外贸易）。其中，Draft指的是汇票，而不是吵架的意思。",
+  "常见的付款方式表达有：‘What are your terms of payment？’（你们的付款方式是什么？），‘Which mode of payment do you prefer？’（你喜欢哪一种付款方式？），‘Many terms of payment are employed in international business’（在国际贸易中人们使用多种付款方式）。",
+  "例如，询问对方何时开立信用证可以说‘When shall we open a letter of credit？’（我们应该什么时候开立信用证？），或者‘Open a letter of credit’（开立信用证）。",
+  "在谈判中，可能需要考虑是否同意付款交单，例如客户付款后我们才将单据交给他们。我们可以说‘We require payment by irrevocable letter of credit.’（我们要求使用不可撤销的信用证）。",
+  "关于付款方式的其他表达，如‘I would be more willing to work with you if you agree to demand the drafts to pay invoices.’（如果你同意要求用汇票支付发票，我们会更愿意与你合作），‘Can we pay by direct deposit？’（我们可以直接汇款吗？），以及分期付款的表达。",
+  "付款条件需要提前明确，比如一次性付清、分期付款等。例如，‘Can we pay in three payments？’（可以分期吗？），‘Is it possible for you to pay in one time？’（你们可以一次性付款吗？），‘Paying in instalments is better for us’（分期付款对我们来说更好）。",
+  "如果无法接受对方的付款条件，可以说‘I'm afraid we can accept your terms of payment. And is there any possibility to be more flexible？’（恐怕我们不能接受你们的付款条件，能不能再灵活一点呢？）",
+  "恐怕我们不能接受你提出的付款条件。这时，你可以询问对方是否有更灵活的可能性。",
+  "在商务谈判中，小公司通常更灵活。他们处理事务的方式和付款条件都相对灵活。",
+  "如果对方坚持原有条件，你可以说：‘如果那样的话，除了接受你们的付款条件，我们别无选择。’这里的‘no alternative’意味着没有其他选择，只能接受。",
+  "在户外贸易和出口业务中，我们会用到各种发票。例如，三页发票、领事发票、临时发票、结算发票、最终发票、正本发票和副本发票。",
+  "此外，还有一种叫做形式发票的文件，也需要掌握。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:18:41"
 }

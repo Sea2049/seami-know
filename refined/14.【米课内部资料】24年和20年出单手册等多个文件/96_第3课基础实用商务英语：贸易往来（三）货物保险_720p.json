@@ -65,5 +65,32 @@
  "duration": 785.95,
  "model": "glm-4-flash",
  "chars": 5108,
- "ts": "2026-07-25 19:20:15"
+ "ts": "2026-07-25 19:20:15",
+ "readable": [
+  "大家好，今天我们来学习贸易商务英语口语的第三个课程——货物保险。我们将学习相关的词汇、句子和简单表达。",
+  "虽然有些人认为货物保险可能用不到，但实际上它在海运、空运等简单运输中非常常用。现在，客户还可能要求我们购买产品责任险等相关保险。如果客户询问我们一般提供什么保险，我们需要学会如何表达。",
+  "接下来，我们学习一些常用的词汇：保险（insurance）、保险率（insurance rate）、运送（consignment）、持续（duration）、检验机构（inspection agency）、补偿（compensation）、索赔机构（claim agency）、申请（apply for）、额外费用（extra cost）、报价单（quotation）、计算保险费（calculate the premium）、申请赔偿（make a claim）。",
+  "在谈论保险时，我们会讨论保险类型、保险公司等，例如可以说‘我想跟你讨论一下保险的问题’（I'd like to have a talk with you over the question of insurance）或‘应该投哪些保险’（What risks should be covered?）。",
+  "在讨论保险费率时，可以说‘请让我看看你的保险费率表’（Please let me have a look at your insurance rate）。",
+  "关于保险期限，可以说‘保险持续的期限是多久’（What's the duration of the insurance?）。",
+  "在讨论额外费用时，可以说‘如果你增加保险范围，你愿意支付额外的费用吗’（Would you be willing to pay extra costs if I increase the insurance coverage?）。",
+  "在讨论赔偿时，可以说‘为了通过保险公司的赔偿审核，应该澄清什么资料’（What should I clarify for the insurance company's compensation approval?）。",
+  "索赔时，需要准备一系列文件，例如‘为了保险公司的审核，我应该准备什么文件’（What should I prepare for the insurance company's approval?）。",
+  "检验机构和索赔机构有什么区别？‘你知道检验和索赔机构的区别吗’（Do you know the difference between inspection and claim agencies?）。",
+  "根据实际调查结果，他们会确认为保险条款对贵方的损失进行赔偿。‘根据实际调查结果，他们会按照保险条款对贵方的损失进行赔偿’（According to the actual surveys, they will confirm the compensation for your losses according to the insurance terms）。",
+  "保险相关的词汇包括保险单（insurance policy）等。",
+  "在客户讨论保险时，我们必须知道free from particular average（平安险）、with particular average（水质险）和all risks（一切险）这些表达分别代表什么意思，千万不要对保险知识一无所知。",
+  "例如，当客户询问保险费率时，我们可以回答：‘我现在没有，回办公室之后会用邮件发给你。’或者‘我会在回办公室后通过邮件发送给您。’",
+  "关于保险失效时间，通常是在货物到达目的港后30天，包括30天之后失效。",
+  "在处理单证问题时，如果不确定，可以建议客户咨询检验机构，如‘不好意思，我也不知道，请咨询检验机构。’或者‘请你去咨询一下检验机构。’",
+  "在增加保险额时，客户可能会询问是否需要支付额外费用，这时可以解释保险提供保护的意义，如‘但是这个费用是提供了保护，这是客户对吧，他不愿意支付额外的保费了，他就说那你的报价就应该有包含保险啊。’",
+  "在申请索赔时，可以使用‘你已经申请所赔了吗？’或者‘你要求所赔了吗？’",
+  "在讨论保险时，可以询问客户希望货物涵盖哪些保险，如‘你希望我们的货物涵盖什么保险呢？’",
+  "询问费率时，可以说‘费率怎么收呢？’",
+  "在计算保险费时，主要是根据风险来收费的。",
+  "最后，提醒大家回去要多花时间学习保险类别，以便更好地与客户沟通。",
+  "本期课程到此结束，感谢大家的参与。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:17:18"
 }

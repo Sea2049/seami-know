@@ -48,5 +48,25 @@
  "duration": 585.17,
  "model": "glm-4-flash",
  "chars": 3752,
- "ts": "2026-07-25 17:32:46"
+ "ts": "2026-07-25 17:32:46",
+ "readable": [
+  "大家好，欢迎来到商务英语口语课程的第九节课，本节课我们将探讨商务英语谈判中的合作细节环节。在确认付款方式、交期和订单后，我们将详细讨论合作细节，并签订合同。合同至关重要，在起草合同后，我们需要询问客户是否可以接受这份合同。如何询问呢？可以说‘Is the contract acceptable now?’即‘这个合同现在可以接受吗？’。",
+  "接下来，我们将学习一些必备的词汇。例如，‘make out’意为起草，类似于我们的‘draw’；‘revised’和‘modified’都表示修改；‘expire’指期满或过期；‘concession’表示让步；‘carry out’意为执行；‘terminate’指终止；‘as a ruler’理论上；‘think about’考虑；‘payment terms’和‘terms of payment’都表示支付条款；‘mutual’表示共同的；‘mutual benefits’表示共同利益；‘item’指合同的条款；‘grace period’表示宽限期。这些是必备的词汇，大家需要记下来，因为它们在实际应用中非常实用。",
+  "接下来，我们来看一些必备的句子。在签订合同之前，需要充分研读合同中的细节，并了解不明白的地方。例如，可以问‘Can we make a compromise here?’即‘我们可以在这一点上达成一个协议吗？’或者‘Do you always make out a contract for every deal?’即‘每一笔交易你们都会制作一份合同吗？’。还有‘If I sign here, that makes me party B, right?’即‘如果我在这签字，我就成为乙方，对吧？’以及‘We seem to have a problem in item 13’即‘我们似乎在第13条条款上存在问题’。这些都是细节协商中常用的表达。",
+  "在具体协商时，如果与对方出现争议，需要巧妙地解决。良好的沟通技巧和协商能力至关重要。例如，可以说‘So we take up the matter point by point’即‘所以我们一点一点地研究这个问题’；‘I do hope we can both find a common ground on this’即‘我真心希望我们可以在这一点上取得一致’；‘If you were me, you will know how hard it is for me to make such a decision’即‘如果你是我的话，你就会知道做出这个决定有多难’；‘Where you consider a larger deal if we make some modifications here’即‘如果我们做一些修改，你们是否会考虑增加订单呢’。这些都是具体协商时可以使用的表达。",
+  "最后，我们来看一组保证优惠合约的表达。可以说‘We assure you a favorable contract’即‘我们保证给你一个优惠的合约’。这里的‘favorable’表示对某人来说很有利的。",
+  "希望您能做出一些妥协，做出让步。",
+  "这是我们的共同利益。",
+  "希望您能考虑一下我先前提出的建议。",
+  "我们可以同意对合同的修改。",
+  "您想要对合同进行变动。",
+  "无法同意您对合同的变动以及修改。",
+  "这是您的合同副本。",
+  "接下来我们看一下几种合同的表达。",
+  "第一个，起草一份合同。",
+  "合同条款，也可以叫合同条款。",
+  "这是关于合同的几个必备的句子。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:18:50"
 }

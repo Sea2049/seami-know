@@ -58,5 +58,14 @@
  "duration": 706.58,
  "model": "glm-4-flash",
  "chars": 5363,
- "ts": "2026-07-25 17:33:01"
+ "ts": "2026-07-25 17:33:01",
+ "readable": [
+  "在谈判过程中，当各项交易细节确定后，我们可以根据这些信息拟定一份合同。拟定合同时，可以使用以下五种表达：Here's a copy of our contract（这是我们的一份合同），I'll draw up an agreement at once（我会立刻准备一份合同），We'll have the contract ready for signature（我们会准备好合同供签字），Do you always make out a contract for every deal?（每笔交易都需要签订一份合同吗？），The contract will be ready in no time（合同将很快准备好）。",
+  "如果发现合同有问题，应及时提出并让对方进行修改，以确保达成合作。在讨论细节时，可以查看合同细节（go through the details of the contract），逐条讨论（share way take up the matter point by point），提出需要讨论的问题（There are a few points which I'd like to bring up）。例如，可以在合同中加入仲裁条款（an arbitration clause in the contract），并对付款方式做出修改（We need to make some changes about the payments）。",
+  "在讨论细节时，要清理合同中的问题，并做出必要的让步（make some concessions）。当双方都准备好签署合同时，应确保一切条款清晰（Everything is clear），并告知对方签字位置（Just sign there on the bottom）。完成签字后，双方都应感到满意（Good, I'm glad we are all done）。",
+  "合同中常用的词汇包括：setters（卖家），unit price（单价），buyers（买家），total amount（总额），article number（货号）。在实景对话中，签订合同的过程包括：签署合同（sign the contract），考虑后再决定（I'd like to stop and think about this for a little while），询问是否准备好签字（Are you ready to sign），提出对价格估计的疑虑（I just want to explain our hesitation about your pricing estimates），按照要求进行修改（We've made changes you asked for），最终签署合同（Great, in that case, we can sign the contract）。",
+  "在签订合同时，首先询问对方是否有任何疑问。律师会先审查合同。签署合同后，表达合作的愉快。接着，通过情景对话展示签订合同时的常见对话。例如，一方询问合同是否无误，并提出增加条款的建议，如一方违约，另一方有权取消合同，违约方需承担损失。然后，另一方指出遗漏的延期付款条款，并立即处理。确认无误后，双方各自签署两份合同，一份中文一份英文。最后，恭喜双方合作愉快。课程结束时，鼓励学生复习所学内容，每天坚持练习，相信英文水平会有所提升。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:18:55"
 }

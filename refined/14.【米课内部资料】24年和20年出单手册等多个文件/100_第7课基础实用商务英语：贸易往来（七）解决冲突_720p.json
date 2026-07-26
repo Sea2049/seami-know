@@ -62,5 +62,27 @@
  "duration": 618.53,
  "model": "glm-4-flash",
  "chars": 4551,
- "ts": "2026-07-25 17:31:40"
+ "ts": "2026-07-25 17:31:40",
+ "readable": [
+  "大家好，欢迎来到商务英语与贸易往来环节的第七集课程，主题是解决冲突。在之前的课程中，我们学习了客户索赔的情况，那么接下来，我们应该如何解决这些冲突呢？在货物运输过程中，难免会遇到各种冲突，比如活运输问题、司机问题、货物问题等。面对这些问题，我们首先要找出原因，然后思考解决方案。在客户争论不休时，我们应该冷静下来，思考如何解决问题。",
+  "在处理冲突时，我们可以使用一些基础的表达方式，如'Put a stop to'表示停止，'take action'表示采取行动，'apparently'表示显然，'letter'表示信件，'handle'表示处理，'frustrated'表示沮丧，'be angry about something'表示对某事生气，'talk to the consumer'表示和顾客交谈，'for the time being'表示目前，'suggest'表示建议，'dispute'表示纠纷，'consensus'表示一致。接下来，我们来看一下讨论解决方法的必备词汇。例如，'How do you think we should handle this?'（你认为我们该如何处理这个问题？），'What would you do in this situation?'（这种情况下你会怎么做？），'Do you have any other suggestions?'（你有其他的建议吗？），'What should I do about hyperbasics?'（关于哈伯卫运的公司的事，我该如何处理？），'I will take action as soon as possible'（我会尽快采取行动），'What I would do is ask for the supervisor's approval'（我的做法是征求高管的意见），'apparently the latter is the main reason'（很显然，后者才是主要原因），'where I think one thing you could do is to talk to the customer'（我认为你可以做的是和客户谈谈），'I suggest, these things should be resolved through mediation'（我建议，这些事情应该通过调解来解决），'Consultation is the best way to achieve consensus'（协商是达成一致的最好办法）。讨论完解决方案后，我们是否应该安抚一下客户呢？不要只是一味地讨论，安抚客户时可以说，'显然你对目前的状况很生气'，'在国际贸易中发生纠纷是难免的'，'我了解你所说的'，'我理解你一定很沮丧'，'我知道你很着急先生'。接下来，我们来看一下实际对话环节，例如，'怎么样寻找处理者以解决生产者之间的纠纷呢？'，'恐怕我无法回答这个问题'，'我很生气，这些产品完全不同于我们要求的'，'我向今天负责的产品向大家道歉，我为今天送到会场的产物有下次抱歉'。",
+  "我希望你能尽快解决这个事情。",
+  "道歉是解决冲突的第一步。",
+  "如果你喜欢的话，有关特别事件的信息将在两天之内提供给你。",
+  "如果你需要资料，可以在今天做出其他事件。",
+  "总的来说，友善和调解是解决冲突的最佳方法，这对双方都有好处。",
+  "我的建议是，你放弃仲裁的意图，与对方进行沟通。",
+  "我的建议是你给予广告的意义，和广告与广告。",
+  "现在我们来查看情境对话。",
+  "大家可以先看一下情境对话的内容。",
+  "看一下情境对话，Andrew和Edward之间的对话。",
+  "Andrew提到他们订购的手机组件与要求的不符。",
+  "Andrew询问Edward应该怎么做。",
+  "Edward建议提出索赔，因为急需这些货物。",
+  "Edward表示不同意，认为应该保持与公司的长期良好关系，并通过协商达成共识。",
+  "Andrew建议首先尝试联系FIFA，并要求他们尽快提供替换件。",
+  "这一部分就讲到这里，非常感谢大家。"
+ ],
+ "readable_model": "glm-4-flash",
+ "readable_ts": "2026-07-26 18:17:43"
 }
