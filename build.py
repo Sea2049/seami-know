@@ -313,12 +313,14 @@ def load_lessons(mod_dir: Path) -> list[dict]:
         if rp.exists():
             try:
                 r = json.loads(rp.read_text(encoding="utf-8"))
-                if r.get("sections"):
+                if r.get("sections") or r.get("readable"):
                     refined = {
                         "summary": r.get("summary", ""),
                         "keypoints": [k for k in r.get("keypoints", []) if k.strip()],
                         "sections": [s for s in r.get("sections", [])
                                      if s.get("heading") and s.get("content")],
+                        "readable": [p for p in (r.get("readable") or [])
+                                     if isinstance(p, str) and p.strip()],
                     }
             except Exception:
                 refined = None
@@ -396,18 +398,44 @@ def build_module_page(name: str, slug: str, layer: str, intro: str, lessons: lis
             )
             kp_block = (f'<div class="keypoints"><h3>精华要点</h3><ul>{kp_html}</ul></div>'
                         if kps else "")
-            raw_html = render_prose(paras)
+            notes_block = (f'<div class="notes"><h3 class="notes-h">结构化笔记</h3>{body_secs}</div>'
+                           if r["sections"] else "")
+
+            # 通顺讲稿（简体达意）优先；没有则回退分段原文
+            if r.get("readable"):
+                read_html = "".join(f"<p>{esc(p)}</p>" for p in r["readable"])
+                readable_block = f"""
+  <div class="readable">
+    <h3>通顺讲稿</h3>
+    {read_html}
+  </div>"""
+                raw_html = render_prose(paras)
+                raw_block = f"""
+  <details class="transcript">
+    <summary>查看原始语音转写（{len(paras)} 段，可能含口语/错别字）</summary>
+    <div class="transcript-body">{raw_html}</div>
+  </details>"""
+            else:
+                readable_block = ""
+                raw_html = render_prose(paras)
+                raw_block = f"""
+  <details class="transcript" open>
+    <summary>讲稿正文（通顺版生成中，暂显示分段转写）</summary>
+    <div class="transcript-body">{raw_html}</div>
+  </details>"""
+
+            meta_extra = ""
+            if r.get("readable"):
+                meta_extra = f" · 通顺讲稿 {len(r['readable'])} 段"
             sections.append(f"""
 <section class="lesson" id="lesson-{i}">
   <h2><span class="lesson-no">{i:02d}</span>{esc(les["title"])}</h2>
-  <p class="lesson-meta">{fmt_min(les["duration"])} · {len(r["sections"])} 节整理 · {len(kps)} 要点</p>
+  <p class="lesson-meta">{fmt_min(les["duration"])} · {len(r["sections"])} 节笔记 · {len(kps)} 要点{meta_extra}</p>
   {summary_html}
   {kp_block}
-  <div class="notes">{body_secs}</div>
-  <details class="transcript">
-    <summary>查看逐字原文（{len(paras)} 段）</summary>
-    <div class="transcript-body">{raw_html}</div>
-  </details>
+  {readable_block}
+  {notes_block}
+  {raw_block}
 </section>""")
         else:
             kps = extract_keypoints(paras)

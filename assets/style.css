@@ -265,7 +265,36 @@ code {
   max-width: 40em;
 }
 .notes { max-width: 40em; }
+.notes-h {
+  margin: 28px 0 14px;
+  font-size: 13px;
+  letter-spacing: 0.2em;
+  color: var(--ink-faint);
+  font-weight: 700;
+}
 .note-sec { margin: 0 0 22px; }
+
+/* 通顺讲稿 */
+.readable {
+  max-width: 40em;
+  margin: 0 0 28px;
+}
+.readable > h3 {
+  margin: 0 0 16px;
+  font-size: 13px;
+  letter-spacing: 0.2em;
+  color: var(--ink-faint);
+  font-weight: 700;
+}
+.readable p {
+  margin: 0 0 1.15em;
+  font-size: 17px;
+  line-height: 1.95;
+  color: var(--ink);
+  text-align: justify;
+  text-indent: 0;
+}
+.readable p:last-child { margin-bottom: 0; }
 .note-sec h4 {
   font-size: 17px;
   font-weight: 700;
