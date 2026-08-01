@@ -1,11 +1,12 @@
 {
- "summary": "本节课介绍了德国超市Aldi Nord和Aldi Sud的背景、合作方式及注意事项。",
+ "summary": "想接Aldi的单，先搞清两家Aldi的区别、走哪条贸易渠道，以及怎么过审厂和价格关。",
  "keypoints": [
-  "Aldi Nord和Aldi Sud在奥地利和斯洛文尼亚使用Hoffer品牌。",
-  "Aldi Nord和Aldi Sud在美国使用Trader Juice品牌。",
-  "与Aldi合作需通过德国进口商、香港、台湾或新加坡的贸易公司。",
-  "与Aldi合作需注意工厂审计、价值量评测、试验和认证。",
-  "Aldi订单竞争激烈，价格敏感。"
+  "Aldi Nord和Aldi Sud在奥地利、斯洛文尼亚用Hoffer品牌，别认错招牌。",
+  "两家Aldi在美国都用Trader Joe's体系运营，市场打法和欧洲不一样。",
+  "直接对接难，可走德国进口商或香港、台湾、新加坡的贸易公司切入。",
+  "工厂审计是加分项不是硬门槛，但样品和大货必须保持一致。",
+  "测试和认证要符合欧洲标准，提前准备别临时抱佛脚。",
+  "Aldi每年发新项目大家都能抢，但价格敏感，报高了直接出局。"
  ],
  "sections": [
   {
@@ -33,5 +34,16 @@
  "duration": 460.41,
  "model": "glm-4-flash",
  "chars": 2621,
- "ts": "2026-07-25 19:53:59"
+ "ts": "2026-07-25 19:53:59",
+ "summary_prev": "本节课介绍了德国超市Aldi Nord和Aldi Sud的背景、合作方式及注意事项。",
+ "keypoints_prev": [
+  "Aldi Nord和Aldi Sud在奥地利和斯洛文尼亚使用Hoffer品牌。",
+  "Aldi Nord和Aldi Sud在美国使用Trader Juice品牌。",
+  "与Aldi合作需通过德国进口商、香港、台湾或新加坡的贸易公司。",
+  "与Aldi合作需注意工厂审计、价值量评测、试验和认证。",
+  "Aldi订单竞争激烈，价格敏感。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:08:20"
 }

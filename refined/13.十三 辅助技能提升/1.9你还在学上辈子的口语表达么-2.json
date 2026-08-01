@@ -1,23 +1,12 @@
 {
- "summary": "本课通过多种口语表达技巧，提升外贸沟通的灵活性和地道性。",
+ "summary": "还在用教科书式英语跟客户聊天？这课给你一批美国人流行的地道口语，让外贸沟通更像同行聊天、不端不尬。",
  "keypoints": [
-  "运用美国流行表达，增强沟通灵活性",
-  "用‘I play hardball’表达决心和努力",
-  "区分重要人物与普通员工，用‘Big Potato’和‘Small Potato’",
-  "展现国际视野，用‘You are a real global tractor’",
-  "使用地道口语，如‘I am more a Chinese food person’",
-  "邀请参观仓库，用‘Any interest in a warehouse tour?’",
-  "表达调侃与幽默，如‘I'm scared to look at or talk to you’",
-  "用‘downhill’表达事情变得容易",
-  "邀请休息，用‘Wanna make a break’",
-  "表达新手身份，用‘I'm only a new guy’",
-  "幽默地表达忘记名字，如‘I'm terrible with names’",
-  "用‘I'm with you’代替‘I agree’更口语化",
-  "表达积极心态，用‘Well folks are positive’",
-  "学习欧美思维方式和沟通习惯，减少代沟",
-  "注意客户表达方式，调整语言语态和思维习惯",
-  "参考欧美剧情中的日常口语，注重地道表达",
-  "灵活运用所学口语，多次使用后成为自己的表达"
+  "用'I play hardball'表达坚持和决心，比直说'I insist'更有气场",
+  "用'Big Potato'和'Small Potato'区分大客户关键人和普通员工",
+  "用'I'm with you'代替'I agree'，表达认同更口语、更自然",
+  "邀请客户参观或休息时说'Any interest in a warehouse tour?'、'Wanna make a break'，轻松不生硬",
+  "用'I'm terrible with names'幽默化解忘记客户名字的尴尬",
+  "多看欧美剧积累日常口语，模仿多了这些表达就成了自己的"
  ],
  "sections": [
   {
@@ -97,5 +86,28 @@
  "duration": 491.01,
  "model": "glm-4-flash",
  "chars": 3586,
- "ts": "2026-07-25 17:26:44"
+ "ts": "2026-07-25 17:26:44",
+ "summary_prev": "本课通过多种口语表达技巧，提升外贸沟通的灵活性和地道性。",
+ "keypoints_prev": [
+  "运用美国流行表达，增强沟通灵活性",
+  "用‘I play hardball’表达决心和努力",
+  "区分重要人物与普通员工，用‘Big Potato’和‘Small Potato’",
+  "展现国际视野，用‘You are a real global tractor’",
+  "使用地道口语，如‘I am more a Chinese food person’",
+  "邀请参观仓库，用‘Any interest in a warehouse tour?’",
+  "表达调侃与幽默，如‘I'm scared to look at or talk to you’",
+  "用‘downhill’表达事情变得容易",
+  "邀请休息，用‘Wanna make a break’",
+  "表达新手身份，用‘I'm only a new guy’",
+  "幽默地表达忘记名字，如‘I'm terrible with names’",
+  "用‘I'm with you’代替‘I agree’更口语化",
+  "表达积极心态，用‘Well folks are positive’",
+  "学习欧美思维方式和沟通习惯，减少代沟",
+  "注意客户表达方式，调整语言语态和思维习惯",
+  "参考欧美剧情中的日常口语，注重地道表达",
+  "灵活运用所学口语，多次使用后成为自己的表达"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:10:36"
 }

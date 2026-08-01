@@ -1,10 +1,11 @@
 {
- "summary": "本节课对比分析了口语中常见的Here you go、There you go和Here you are三个短句的用法，帮助学习者避免混淆。",
+ "summary": "Here you go、There you go、Here you are长得像但分工不同，记住Well done、That’s all、Just take it就不会混。",
  "keypoints": [
-  "Here you go用于鼓励对方，相当于well done；",
-  "There you go用于结束对话，相当于That's all；",
-  "Here you are用于递交物品，相当于Just take it；",
-  "通过英文归纳，便于理解和记忆。"
+  "Here you go偏鼓励，夸对方做得好时用，接近Well done。",
+  "There you go常用来收尾，意思是“就这样”，对应That’s all。",
+  "Here you are是递东西时说的“给你”，对应Just take it。",
+  "别按here、there字面硬翻，记使用场景比记单词更稳。",
+  "开口前先判断是鼓励、收尾还是递物，再决定用哪一句。"
  ],
  "sections": [
   {
@@ -57,5 +58,15 @@
   "好，我们这节课就先讲这三个句型，三个指示点。我们下次再见，谢谢大家。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:04:08"
+ "readable_ts": "2026-07-26 18:04:08",
+ "summary_prev": "本节课对比分析了口语中常见的Here you go、There you go和Here you are三个短句的用法，帮助学习者避免混淆。",
+ "keypoints_prev": [
+  "Here you go用于鼓励对方，相当于well done；",
+  "There you go用于结束对话，相当于That's all；",
+  "Here you are用于递交物品，相当于Just take it；",
+  "通过英文归纳，便于理解和记忆。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:10:47"
 }

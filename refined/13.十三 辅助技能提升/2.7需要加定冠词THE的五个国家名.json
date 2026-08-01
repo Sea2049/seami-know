@@ -1,11 +1,11 @@
 {
- "summary": "本节课介绍了五个需要加定冠词THE的国家名及其用法，帮助学习者正确使用英语国家名。",
+ "summary": "国家名前一般不加THE，但有几个例外，记错会让英语显得不专业，这节课帮你把这五个记牢。",
  "keypoints": [
-  "几乎所有国家名前不加定冠词，但有例外。",
-  "五个例外国家名：中国全称、美国、英国、荷兰、菲律宾。",
-  "英国客人避免使用英格兰，使用UK或Britain。",
-  "荷兰和菲律宾因复数形式需加定冠词。",
-  "复合词和复数形式国家名前需加定冠词。"
+  "绝大多数国家名前面直接说，不加定冠词THE，这是默认规则。",
+  "五个例外要记死：中国全称、美国、英国、荷兰、菲律宾，前面都要加THE。",
+  "跟英国客户沟通别说England，它只是英国一部分，用UK或Britain更稳妥。",
+  "Netherlands和Philippines是复数形式，复数国名前必须加THE。",
+  "判断标准很简单：国名带复合词或是复数形式，前面就得加THE。"
  ],
  "sections": [
   {
@@ -38,5 +38,16 @@
   "大家好，这一节课我们继续探讨世界上的一个语言问题，关于国家名前的定冠词。通过幻灯片的主题，我们可以看到'Before 5 Country Names'，需要加定冠词'THE'的五个国家名。这里的'Definite Article'表示定冠词。这节课的内容非常实用，尤其在口语和日常工作中需要注意。我们先来看一个例子，通常我们知道几乎所有的国家名前往往不加定冠词，比如中国、俄罗斯、日本等，都可以直接跟在动词后面。例如，'I will pay a visit to your factory in China soon'，这里的'China'前面没有任何定冠词。再看第二句，'We are going to Germany next week to attend an exhibition in Frankfurt'，这里的'Germany'前面也没有定冠词。因此，我们可以得出结论，几乎所有的国家名前都不需要加定冠词，但这里要注意，'几乎所有'并不意味着'全部'，也就是说存在例外情况。接下来，我将为大家介绍这五个例外情况的国家名。首先，'The People's Republic of China'，无论是全称还是缩写'PRC'，都需要加定冠词'THE'。其次，'United States of America'，无论是'USA'、'US'还是单独使用'American'，前面都需要加定冠词'THE'。第三，'United Kingdom of Great Britain and Northern Ireland'，即'UK'，不能省略定冠词'THE'。需要注意的是，与英国客人交流时，尽量避免使用'England'等词汇，因为它们可能带有地域歧视的含义。建议使用'UK'或'Britain'。第四，'The Netherlands'，虽然'Holland'或'Dutch'可以不加定冠词，但使用'Netherlands'时，前面一定要加定冠词'THE'。第五，'Philippines'，同样需要加定冠词'THE'。总结一下，除了这五个例外，其他任何国家名前都不需要考虑定冠词的问题。另外，我们再看两个例子，'We have customers in Germany, France, and the UK'，这里的'UK'前面需要加定冠词'THE'。再看第二句，'Our main market is the US'，因为这里用的是'US'，所以前面需要加定冠词'THE'。今天的课程就到这里，希望大家能够总结内容，并检查自己平时是否有注意到定冠词的使用问题。谢谢大家。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:05:07"
+ "readable_ts": "2026-07-26 18:05:07",
+ "summary_prev": "本节课介绍了五个需要加定冠词THE的国家名及其用法，帮助学习者正确使用英语国家名。",
+ "keypoints_prev": [
+  "几乎所有国家名前不加定冠词，但有例外。",
+  "五个例外国家名：中国全称、美国、英国、荷兰、菲律宾。",
+  "英国客人避免使用英格兰，使用UK或Britain。",
+  "荷兰和菲律宾因复数形式需加定冠词。",
+  "复合词和复数形式国家名前需加定冠词。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:10:56"
 }

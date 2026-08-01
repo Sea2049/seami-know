@@ -1,15 +1,12 @@
 {
- "summary": "本课深入解析新西兰连锁超市，聚焦Full Service Supermarket及Pak'n Save的特点与策略。",
+ "summary": "摸清新西兰超市的两大流派：全服务型的Countdown和New World，以及靠低价走量的Pak'n Save，搞懂它们各自怎么赚钱。",
  "keypoints": [
-  "新西兰连锁超市分类及定位解析",
-  "Full Service Supermarket概念及服务全面性介绍",
-  "新西兰两大Full Service Supermarket Countdown和New World的特点分析",
-  "Pak'n Save低价策略与成本节约优势",
-  "Pakasave商品结构以食品酒类为主，涵盖日用品和婴儿用品",
-  "Pakasave购物优惠及加油优惠介绍",
-  "Pakasave选址策略与消费者便利性",
-  "Pakasave折扣超市模式与经营特点",
-  "Pakasave价格策略与每日低价策略"
+  "新西兰连锁超市分两大类，定位不同打法也不同，先要分清再看细节",
+  "Countdown和New World是Full Service Supermarket，类似沃尔玛，服务全、品类全",
+  "Pak'n Save靠压缩成本打低价牌，不提供购物袋这类免费服务来省钱",
+  "商品以食品和酒类为主，日用品、婴儿用品也覆盖，走折扣超市路线",
+  "店开在主要公路旁，方便购物顺带加油，加油优惠是拉客的重要手段",
+  "价格策略是天天低价，不靠短期促销，靠稳定低价留住回头客"
  ],
  "sections": [
   {
@@ -72,5 +69,20 @@
   "Pak'n Save的经营方式与美国的无二码类似，主打低价策略，但定位更加明确，这也是它在新西兰成功的关键。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 17:54:42"
+ "readable_ts": "2026-07-26 17:54:42",
+ "summary_prev": "本课深入解析新西兰连锁超市，聚焦Full Service Supermarket及Pak'n Save的特点与策略。",
+ "keypoints_prev": [
+  "新西兰连锁超市分类及定位解析",
+  "Full Service Supermarket概念及服务全面性介绍",
+  "新西兰两大Full Service Supermarket Countdown和New World的特点分析",
+  "Pak'n Save低价策略与成本节约优势",
+  "Pakasave商品结构以食品酒类为主，涵盖日用品和婴儿用品",
+  "Pakasave购物优惠及加油优惠介绍",
+  "Pakasave选址策略与消费者便利性",
+  "Pakasave折扣超市模式与经营特点",
+  "Pakasave价格策略与每日低价策略"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:05:54"
 }

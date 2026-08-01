@@ -1,12 +1,11 @@
 {
- "summary": "本课介绍新西兰最大连锁零售集团Foodstuffs及其业务和品牌特点。",
+ "summary": "摸清新西兰最大零售集团Foodstuffs的品牌梯队和南北岛布局，才知道该从哪类门店切入。",
  "keypoints": [
-  "Foodstuffs是新西兰最大的连锁零售集团，旗下拥有多个品牌。",
-  "Foodstuffs业务遍及新西兰南北岛，核心业务集中在北岛奥克兰地区。",
-  "集团旗下品牌包括Giomos、Trips、Suprite等。",
-  "新西兰零售商家侧重于零售和批发业务。",
-  "On the Spot便利店是新西兰规模较大的便利店之一，地位特殊。",
-  "Four Square连锁店是规模较大的便利店品牌。"
+  "Foodstuffs是新西兰最大连锁零售集团，先认准Pak'n Save、New World、Four Square三大主力。",
+  "它业务覆盖南北岛，但重心在北岛尤其奥克兰，开发客户先盯这一圈。",
+  "集团还延伸到On the Spot便利店和Liquorland酒类店，别只盯着大超市。",
+  "新西兰零售商多走零售加批发路线，报价和供货方式要按这个逻辑谈。",
+  "便利店端Four Square规模较大，On the Spot地位特殊，适合小批量高频补货。"
  ],
  "sections": [
   {
@@ -66,5 +65,17 @@
   "如果到这个规模的很多就是Four Square，所以它这个算是比较特殊的。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 17:57:08"
+ "readable_ts": "2026-07-26 17:57:08",
+ "summary_prev": "本课介绍新西兰最大连锁零售集团Foodstuffs及其业务和品牌特点。",
+ "keypoints_prev": [
+  "Foodstuffs是新西兰最大的连锁零售集团，旗下拥有多个品牌。",
+  "Foodstuffs业务遍及新西兰南北岛，核心业务集中在北岛奥克兰地区。",
+  "集团旗下品牌包括Giomos、Trips、Suprite等。",
+  "新西兰零售商家侧重于零售和批发业务。",
+  "On the Spot便利店是新西兰规模较大的便利店之一，地位特殊。",
+  "Four Square连锁店是规模较大的便利店品牌。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:07:29"
 }

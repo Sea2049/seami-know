@@ -1,17 +1,11 @@
 {
- "summary": "本课深入解析新西兰Foodstuffs集团及其旗下品牌，揭示其市场定位与策略。",
+ "summary": "摸清Foodstuffs集团、自有品牌与New World高端定位，判断你的产品能不能借它进新西兰主流超市。",
  "keypoints": [
-  "介绍Foodstuffs集团及其Private Label Brand，涵盖其品牌特点。",
-  "分析Budget品牌低价策略，包装简洁，价格竞争力强。",
-  "阐述PAMS品牌产品线，定位中高端市场。",
-  "解析Foodstuffs公司架构，包括南岛北岛部门及on-browns-limited。",
-  "介绍New World超市，强调其全系列大型超市与标准化服务。",
-  "明确New World超市定位，保持门店协调性与产品一致性。",
-  "对比Conan超市定位差异，大店小店产品种类可能不同。",
-  "分析New World产品定位，高端、社区成熟、消费能力强。",
-  "描述New World产品特点，蔬菜水果新鲜、价格高、卖相佳。",
-  "强调O-Lay超市高端定位，定价高，选品、品牌、陈列出色。",
-  "指出与New World合作的意义，进入主流市场。"
+  "Foodstuffs分南北岛部门，自有品牌归on-browns-limited，合作前先找对入口。",
+  "Budget主打低价，包装简洁、价格冲击强，适合走量不适合讲品牌故事。",
+  "PAMS从厨房用品到调料覆盖广，定位中高端，品质和稳定供货是门槛。",
+  "New World是大型全系列超市，门店标准化、社区成熟，蔬果要新鲜卖相好。",
+  "O-Lay更高端，定价、选品、品牌和陈列都挑，进店等于拿到主流市场背书。"
  ],
  "sections": [
   {
@@ -85,5 +79,22 @@
   "当与New World合作时，无论是作为Seedstaff供应商还是以自有品牌的名义供货，都意味着真正进入了新西兰主流市场，甚至是高端市场。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 17:56:58"
+ "readable_ts": "2026-07-26 17:56:58",
+ "summary_prev": "本课深入解析新西兰Foodstuffs集团及其旗下品牌，揭示其市场定位与策略。",
+ "keypoints_prev": [
+  "介绍Foodstuffs集团及其Private Label Brand，涵盖其品牌特点。",
+  "分析Budget品牌低价策略，包装简洁，价格竞争力强。",
+  "阐述PAMS品牌产品线，定位中高端市场。",
+  "解析Foodstuffs公司架构，包括南岛北岛部门及on-browns-limited。",
+  "介绍New World超市，强调其全系列大型超市与标准化服务。",
+  "明确New World超市定位，保持门店协调性与产品一致性。",
+  "对比Conan超市定位差异，大店小店产品种类可能不同。",
+  "分析New World产品定位，高端、社区成熟、消费能力强。",
+  "描述New World产品特点，蔬菜水果新鲜、价格高、卖相佳。",
+  "强调O-Lay超市高端定位，定价高，选品、品牌、陈列出色。",
+  "指出与New World合作的意义，进入主流市场。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:07:36"
 }

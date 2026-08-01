@@ -1,11 +1,11 @@
 {
- "summary": "本节课分析了香港超市与连锁零售店的格局，揭示了两大集团在香港零售业的垄断地位及其在亚洲和欧洲的扩展。",
+ "summary": "摸清香港超市和连锁零售的品牌版图，认清背后Dairy Farm和AS Watson两大集团，选合作方才不吃亏。",
  "keypoints": [
-  "香港超市以惠康、百家、Market Place、360、Taste等为代表，分为高端和大众化两大类。",
-  "Great Food Hall专注于高品质食品，Olivus和Fusion则定位高档蔬菜水果。",
-  "City Super和Vanguard华润万家等超市定位高端，AeOn则引进日韩食品。",
-  "Dairy Farm和AS Watson Group两大集团垄断香港零售业，旗下品牌众多。",
-  "Manning's和Warsons药房、Fortress和白老汇电器连锁店等也受这两大集团影响。"
+  "香港超市以惠康、百家、Market Place、360、Taste为主，分高端和大众两条线。",
+  "Great Food Hall主打高品质食品，Olivus和Fusion专做高档蔬果，定位要分清。",
+  "City Super和华润万家走高端路线，AEON靠引进日韩食品吸引客群。",
+  "Dairy Farm和AS Watson两大集团几乎垄断香港零售业，旗下品牌非常多。",
+  "万宁、屈臣氏药房和丰泽、百老汇电器连锁，也都归在这两大集团旗下。"
  ],
  "sections": [
   {
@@ -24,5 +24,16 @@
   "这两家公司在香港之外，在亚洲和欧洲也都有业务布局。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 17:59:46"
+ "readable_ts": "2026-07-26 17:59:46",
+ "summary_prev": "本节课分析了香港超市与连锁零售店的格局，揭示了两大集团在香港零售业的垄断地位及其在亚洲和欧洲的扩展。",
+ "keypoints_prev": [
+  "香港超市以惠康、百家、Market Place、360、Taste等为代表，分为高端和大众化两大类。",
+  "Great Food Hall专注于高品质食品，Olivus和Fusion则定位高档蔬菜水果。",
+  "City Super和Vanguard华润万家等超市定位高端，AeOn则引进日韩食品。",
+  "Dairy Farm和AS Watson Group两大集团垄断香港零售业，旗下品牌众多。",
+  "Manning's和Warsons药房、Fortress和白老汇电器连锁店等也受这两大集团影响。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:08:48"
 }

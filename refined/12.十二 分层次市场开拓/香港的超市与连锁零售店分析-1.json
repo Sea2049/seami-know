@@ -1,12 +1,12 @@
 {
- "summary": "本节课分析了香港的零售渠道，包括便利店、超市、连锁药店和电器连锁卖场，并介绍了主要品牌和背后的企业。",
+ "summary": "想进香港市场，先得摸清四类零售渠道和背后的大集团，才知道货该往哪铺。",
  "keypoints": [
-  "香港零售渠道包括便利店、超市、连锁药店和电器连锁卖场",
-  "7-11和Circle K是香港主要的便利店品牌",
-  "Pokka Shop和Welcome是香港主要的超市品牌",
-  "What's in?和Malins是香港主要的连锁药房品牌",
-  "Fortress和Broadway是香港主要的电器连锁卖场品牌",
-  "Dairy Farm Group和Lianfeng Retailing Group是香港主要零售企业之一"
+  "香港零售主要有四类渠道：便利店、超市、连锁药店、电器连锁卖场",
+  "便利店由7-11和Circle K两家主导，背后都是大型企业运营",
+  "超市看Pokka Shop和Welcome，是食品和生活必需品的主销场所",
+  "连锁药店以What's in?和Malins为主，覆盖药品、美容和杂货",
+  "电器卖场主要是Fortress和Broadway，卖电子产品和家用电器",
+  "渠道背后站着Dairy Farm等大集团，摸清它们才好制定铺货策略"
  ],
  "sections": [
   {
@@ -52,5 +52,17 @@
   "这些是后续的内容，我们这节课不涉及。我只是简单提一下。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:00:04"
+ "readable_ts": "2026-07-26 18:00:04",
+ "summary_prev": "本节课分析了香港的零售渠道，包括便利店、超市、连锁药店和电器连锁卖场，并介绍了主要品牌和背后的企业。",
+ "keypoints_prev": [
+  "香港零售渠道包括便利店、超市、连锁药店和电器连锁卖场",
+  "7-11和Circle K是香港主要的便利店品牌",
+  "Pokka Shop和Welcome是香港主要的超市品牌",
+  "What's in?和Malins是香港主要的连锁药房品牌",
+  "Fortress和Broadway是香港主要的电器连锁卖场品牌",
+  "Dairy Farm Group和Lianfeng Retailing Group是香港主要零售企业之一"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:08:41"
 }
