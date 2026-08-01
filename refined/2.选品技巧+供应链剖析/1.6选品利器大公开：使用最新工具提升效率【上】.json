@@ -1,11 +1,11 @@
 {
- "summary": "本节课介绍了四种选品工具：Amazon Best Sellers、Google Trends、Keyword Planner和海关数据，以及Inpo Genius网站，帮助学员提升选品效率。",
+ "summary": "选品别靠拍脑袋，这课把亚马逊榜单、谷歌趋势、关键词规划、海关数据到客户背调网站这条实战工具链一次讲透。",
  "keypoints": [
-  "利用Amazon Best Sellers了解美国消费者偏好和热卖产品",
-  "通过Google Trends分析关键词搜索趋势，捕捉市场机会",
-  "使用Keyword Planner优化关键词布局，提升SEO和广告效果",
-  "海关数据提供客户采购和进口情况，辅助品类选择",
-  "Inpo Genius网站用于美国客户背调和市场调研"
+  "用Amazon Best Sellers按类目看美国实时热卖榜，直接摸清消费者当下买什么。",
+  "用Google Trends盯关键词搜索量变化，提前判断产品是起量还是在退烧。",
+  "用Keyword Planner看搜索量和竞争度，选出值得做的词，SEO和广告投放都靠它。",
+  "海关数据能看到买家真实采购和进口记录，选品类前先验证市场需求再下注。",
+  "Inpo Genius免费查美国公司的股权结构和销售数据，做背调和市场调研很够用。"
  ],
  "sections": [
   {
@@ -54,5 +54,16 @@
   "它可以帮助我们进行客户背调和市场调研，了解竞争对手信息。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 19:00:08"
+ "readable_ts": "2026-07-26 19:00:08",
+ "summary_prev": "本节课介绍了四种选品工具：Amazon Best Sellers、Google Trends、Keyword Planner和海关数据，以及Inpo Genius网站，帮助学员提升选品效率。",
+ "keypoints_prev": [
+  "利用Amazon Best Sellers了解美国消费者偏好和热卖产品",
+  "通过Google Trends分析关键词搜索趋势，捕捉市场机会",
+  "使用Keyword Planner优化关键词布局，提升SEO和广告效果",
+  "海关数据提供客户采购和进口情况，辅助品类选择",
+  "Inpo Genius网站用于美国客户背调和市场调研"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:48:24"
 }

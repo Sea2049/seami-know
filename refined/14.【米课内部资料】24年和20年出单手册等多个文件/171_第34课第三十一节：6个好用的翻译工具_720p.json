@@ -1,12 +1,12 @@
 {
- "summary": "本节课介绍了六个实用的翻译平台，帮助提升跨境电商和TikTok内容的多语言翻译能力。",
+ "summary": "做跨境和TikTok免不了多语言内容，这课直接给你六个顺手的翻译工具，省事还翻得准。",
  "keypoints": [
-  "推荐deepl.com进行多语言翻译，包括欧洲小语种和英语。",
-  "使用translate.google.cn或Google Translate进行翻译。",
-  "NiceTranslator.com提供网页版翻译服务，无APP版本。",
-  "采云APP.com提供翻译服务。",
-  "有道翻译支持浏览器和手机APP使用。",
-  "deptpdf.com translate可翻译PDF和Word文档。"
+  "日常翻译首选Deepl，欧洲小语种翻得比大多数工具自然。",
+  "谷歌翻译用translate.google.cn，国内打开快，应急最方便。",
+  "NiceTranslator只有网页版，一次能对比多种语言译文。",
+  "有道翻译浏览器和手机APP都能用，随手查词很顺手。",
+  "PDF和Word文档直接用deptpdf翻译，整篇扔进去不用复制粘贴。",
+  "工具按场景搭配着用，别指望一个工具包打天下。"
  ],
  "sections": [
   {
@@ -38,5 +38,17 @@
   "这里分享了六个好用的翻译平台，大家可以挑选一个最顺手的长期使用。今天的课程就到这里，谢谢大家。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:22:28"
+ "readable_ts": "2026-07-26 18:22:28",
+ "summary_prev": "本节课介绍了六个实用的翻译平台，帮助提升跨境电商和TikTok内容的多语言翻译能力。",
+ "keypoints_prev": [
+  "推荐deepl.com进行多语言翻译，包括欧洲小语种和英语。",
+  "使用translate.google.cn或Google Translate进行翻译。",
+  "NiceTranslator.com提供网页版翻译服务，无APP版本。",
+  "采云APP.com提供翻译服务。",
+  "有道翻译支持浏览器和手机APP使用。",
+  "deptpdf.com translate可翻译PDF和Word文档。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:40:03"
 }

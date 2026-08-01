@@ -1,11 +1,11 @@
 {
- "summary": "本节课介绍了如何通过TikTok将流量引流至YouTube和Facebook，以扩大品牌影响力并获取更多用户关注。",
+ "summary": "教你把TikTok的流量导到YouTube和Facebook上，先把账号设置做对，再靠链接把粉丝引过去。",
  "keypoints": [
-  "将TikTok视频关联至YouTube账户，方便用户直接访问视频内容。",
-  "在TikTok个人资料中添加Facebook链接，引导用户关注品牌。",
-  "通过手机操作，将Facebook个人资料链接添加至TikTok个人资料。",
-  "验证邮箱并切换至商业账户，以充分利用TikTok功能。",
-  "利用TikTok的流量，引导用户关注YouTube和Facebook账户。"
+  "先验证邮箱并切换到TikTok商业账户，不然很多引流和数据功能用不了。",
+  "在TikTok个人资料里绑定YouTube账号，观众点一下就能跳过去看视频。",
+  "从手机Facebook个人档案复制主页链接，再粘贴进TikTok资料里引粉丝关注。",
+  "TikTok上持续发内容攒流量，再靠资料里的链接把人导向其他社媒账号。",
+  "TikTok涨粉快但变现弱，把流量沉淀到Facebook和YouTube才有后续价值。"
  ],
  "sections": [
   {
@@ -38,5 +38,16 @@
   "大家好，我是Yilan。今天我们讲解的是第29个课时，如何使用TikTok引流到YouTube或Facebook的账户。如果你已经在使用TikTok，但没有独立账户，但有Facebook和YouTube的账户，你可以利用TikTok引流到自己的YouTube和Facebook账户，让更多用户看到你。大家知道，如果在YouTube上有视频，我们可以赚取一些奖励金。所以，如果能把TikTok的视频引到YouTube，也是不错的选择。首先，我们讲解如何将TikTok引流到YouTube。打开TikTok，点击右下角的‘我’，然后点击右上角的三个点，进入账户管理。如果邮箱未验证，会提示验证邮箱。验证后，切换到商业账户，选择经营内容，然后添加YouTube到个人资料。登录YouTube账户，选择验证方式，输入验证码，同意权限，然后回到TikTok账户，YouTube标志会出现在个人资料页。这样，如何把TikTok引流到YouTube就完成了。接下来，我们讲解如何把TikTok的流量关联到自己的Facebook账户。在手机上下载Facebook，打开后点击个人档案，复制Facebook链接，然后在TikTok编辑个人资料中添加到网站或bio。这样，客户点击个人资料页中的链接，就可以关联到我们的WhatsApp、YouTube或Facebook界面。关于如何将TikTok引流到我们的Facebook和YouTube就讲到这里，谢谢大家。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:22:28"
+ "readable_ts": "2026-07-26 18:22:28",
+ "summary_prev": "本节课介绍了如何通过TikTok将流量引流至YouTube和Facebook，以扩大品牌影响力并获取更多用户关注。",
+ "keypoints_prev": [
+  "将TikTok视频关联至YouTube账户，方便用户直接访问视频内容。",
+  "在TikTok个人资料中添加Facebook链接，引导用户关注品牌。",
+  "通过手机操作，将Facebook个人资料链接添加至TikTok个人资料。",
+  "验证邮箱并切换至商业账户，以充分利用TikTok功能。",
+  "利用TikTok的流量，引导用户关注YouTube和Facebook账户。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:39:57"
 }

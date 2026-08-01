@@ -1,14 +1,12 @@
 {
- "summary": "本节课介绍了如何通过TikTok引流到WhatsApp，以促进B2B平台的客户联系。",
+ "summary": "TikTok主页留WhatsApp链接，是把看热闹的视频流量变成能直接聊天的B2B客户的关键一步。",
  "keypoints": [
-  "在TikTok账号上添加WhatsApp链接以吸引客户联系",
-  "使用WhatsApp Business应用并设置Short Link",
-  "将Short Link复制到TikTok账号的BIO中以便用户访问",
-  "通过TikTok引流到WhatsApp，适用于B2B业务",
-  "操作简单，易于执行",
-  "确保TikTok账号信息更新，以吸引潜在客户",
-  "利用WhatsApp作为B2B客户沟通的主要渠道",
-  "通过TikTok的BIO功能展示WhatsApp账号，提高可见度"
+  "去应用商店下载WhatsApp Business并注册账号，这是引流落地的前提",
+  "在Business Tools里生成Short Link，这条链接就是你的WhatsApp直达入口",
+  "把Short Link粘到TikTok账号的BIO里，用户点一下就能加你聊天",
+  "TikTok账号信息要及时更新，联系方式过期等于白引流",
+  "这套方法适合想用TikTok获客、靠WhatsApp谈单的B2B业务",
+  "操作就几步，门槛低，难的是坚持发内容把流量做起来"
  ],
  "sections": [
   {
@@ -41,5 +39,19 @@
   "大家好，我是Ilan。今天我们来到了第28节课，讲解如何使用TikTok in-lil到WhatsApp，为我们的B2B平台引流。如果你是做B2B外贸的，肯定希望通过TikTok让更多客户主动找到你并联系你。那么在你的账号上挂上一个WhatsApp的链接，肯定是一个最佳选择。因为现在做外贸的，其实很多都是通过WhatsApp与客户联系的。那么这个操作该怎么做呢？接下来我会演示。首先在APP Store里搜索WhatsApp Business，下载并安装，然后注册一个账号。注册完成后，打开WhatsApp Business，在设置中找到Business Tools，点击进入，拉到下面找到Short Link，点击复制链接。然后回到我们的海外抖音TikTok，点击编辑资料，在BIO这里把复制的链接粘贴进去，然后在首页就可以看到我们的WhatsApp账号了。如果大家还有问题，也可以提出来，我们非常乐意为大家解答。好了，这节课就上到这里了，谢谢大家。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:22:21"
+ "readable_ts": "2026-07-26 18:22:21",
+ "summary_prev": "本节课介绍了如何通过TikTok引流到WhatsApp，以促进B2B平台的客户联系。",
+ "keypoints_prev": [
+  "在TikTok账号上添加WhatsApp链接以吸引客户联系",
+  "使用WhatsApp Business应用并设置Short Link",
+  "将Short Link复制到TikTok账号的BIO中以便用户访问",
+  "通过TikTok引流到WhatsApp，适用于B2B业务",
+  "操作简单，易于执行",
+  "确保TikTok账号信息更新，以吸引潜在客户",
+  "利用WhatsApp作为B2B客户沟通的主要渠道",
+  "通过TikTok的BIO功能展示WhatsApp账号，提高可见度"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:39:49"
 }

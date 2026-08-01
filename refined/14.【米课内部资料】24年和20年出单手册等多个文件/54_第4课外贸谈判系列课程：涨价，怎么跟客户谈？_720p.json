@@ -1,10 +1,12 @@
 {
- "summary": "本节课介绍了如何与客户沟通产品涨价，包括提前预告、解释原因、说明影响及提供优惠等策略。",
+ "summary": "涨价最怕临下单才说，这课讲怎么提前一个月通知、讲清原因和幅度，再用优惠引导客户早点下单。",
  "keypoints": [
-  "提前预告涨价，避免突然通知造成客户不满。",
-  "解释涨价原因，让客户理解并接受。",
-  "提供优惠措施，鼓励客户尽快下单。",
-  "通过邮件或信函正式通知客户涨价信息。"
+  "别等客户下单时才提价，那时再解释客户很难接受，容易引发不满。",
+  "涨价至少提前一个月通知，给客户留出消化和安排订单的时间。",
+  "通知里讲清涨价原因，比如原材料成本上升、行业普涨，让涨价显得合理。",
+  "直接说明涨价幅度和对订单的影响，方便客户自己算账、做决策。",
+  "用维持原价、提前排产等优惠，推动客户在涨价前尽快下单。",
+  "用正式邮件或信函发涨价通知，附上范本照着写，别只在聊天里随口一提。"
  ],
  "sections": [
   {
@@ -41,5 +43,15 @@
   "在产品价格不得不进行调整时，应提前向客户做好展假的预告，避免突然涨价造成客户的不满。一般来说，提前一个月通知客户是比较合适的。在预告中，应说明降价的原因，如原材料成本上升、行业整体情况等，让客户了解降价并非公司主动为之。同时，告知客户预计的降价比例和时间，以便他们评估影响。此外，可以利用降价预告的机会，鼓励客户尽快下单，以享受现有价格。在与客户沟通时，可以参考以下范本：\n\nDear [客户名称]，\n\nGood day,\n\nPlease be noted due to the recent price increase of raw materials, all ABC product prices will be adjusted from November 2021. Please be noted about this.\n\nShould you have any orders or inquiries within this month, please send them to us at your earliest convenience. We can arrange production for you beforehand to ensure timely delivery.\n\nBest regards,\n[您的名字]\n\n这个范本仅供参考，您可以根据实际情况调整邮件内容，以更好地与客户沟通。关于如何与客户谈展假，今天的分享就到这里，感谢大家的参与。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:14:42"
+ "readable_ts": "2026-07-26 18:14:42",
+ "summary_prev": "本节课介绍了如何与客户沟通产品涨价，包括提前预告、解释原因、说明影响及提供优惠等策略。",
+ "keypoints_prev": [
+  "提前预告涨价，避免突然通知造成客户不满。",
+  "解释涨价原因，让客户理解并接受。",
+  "提供优惠措施，鼓励客户尽快下单。",
+  "通过邮件或信函正式通知客户涨价信息。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:18:10"
 }

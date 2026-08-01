@@ -1,12 +1,12 @@
 {
- "summary": "本节课介绍了谈判中的底线概念，强调了及时说明底线的重要性，并提供了相关词汇和表达方式。",
+ "summary": "外贸谈判不先亮底线只会被一路压价，这节课教你守住底线、问出客户预算和目标价的实用英语说法。",
  "keypoints": [
-  "谈判中必须设定底线以保护自身利益",
-  "及时向对方说明底线以防止无限制压价",
-  "掌握相关词汇如'acceptable'、'bottom line'、'discount'等",
-  "通过询问客户心理预期来调整谈判策略",
-  "使用表达如'Is the price within reach?'来探询客户可接受的价格范围",
-  "直接询问客户的预算或目标价格以获取更多信息"
+  "谈判前先定好自己的底线，并尽早让对方知道，避免被无限制压价。",
+  "和不熟的客户谈价格，先问心理预期再报价，比直接让价更主动。",
+  "用 Is the price within reach? 试探客户对当前价格的接受程度。",
+  "直接问 What's your budget? 或目标价，摸清对方底牌再调整策略。",
+  "分清客户报的是想要的价格还是底线，两者对应的让步空间完全不同。",
+  "掌握 bottom line、discount、price range、compromise 等谈判高频词。"
  ],
  "sections": [
   {
@@ -43,5 +43,17 @@
   "在商务口语课程中，我们来到了英语谈判的第六节课，主题是谈判的底线。任何谈判都必须守住一个底线，这样才能在谈判中避免过于失利的情况。在谈判过程中，我们要及时向对方说明自己的底线，既可以防止对方无限制压价，又能保证自己公司的利益。作为谈判者，面对对方的步步紧逼，一定要坚持亮出自己的底牌。这时，我们可以告诉客户：‘这已经是我们的底价了’或‘这是我们能做出的最大让步了’，英文可以表达为‘It's about the best we can do’。\n\n必备词汇包括：Aceptable（可接受的），Negotiation（谈判，动词为negotiate，如price negotiation表示价格谈判），bottom line（底线，底价可称为bottom price），discount（折扣），current price（实价，也可称为单钱价格、latest price或up to date price），port dues（赶口税，即在赶口到目的地的过程中需要交的税），price range（价格范围），reduce the price（降低价格），requirement（要求，动词为require），compromise（妥协），worth market price（国际市场价），value of foreign trade（对外贸易值，即外贸）。\n\n在谈判中，如果对客户不太熟悉，可以打探客户的心理预期，然后调整谈判计划。心理预期就是要了解客户的目标价、可接受的价范围或预算。例如，可以问‘Is the price within reach?’（这个价格可以接受吗？）或‘What is your acceptable price range?’（你们可以接受的价格范围是多少呢？）。\n\n在谈判中，我们还需要了解客户的价格是他们的要求还是底线。要求可能只是希望达到一个价格，但实际还有一个可接受的最低价格。直接询问客户的预算或目标价，可以说‘What's your budget’（你们的预算是多少）或‘What's your pocket price’（你们的目标价是多少）。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:18:18"
+ "readable_ts": "2026-07-26 18:18:18",
+ "summary_prev": "本节课介绍了谈判中的底线概念，强调了及时说明底线的重要性，并提供了相关词汇和表达方式。",
+ "keypoints_prev": [
+  "谈判中必须设定底线以保护自身利益",
+  "及时向对方说明底线以防止无限制压价",
+  "掌握相关词汇如'acceptable'、'bottom line'、'discount'等",
+  "通过询问客户心理预期来调整谈判策略",
+  "使用表达如'Is the price within reach?'来探询客户可接受的价格范围",
+  "直接询问客户的预算或目标价格以获取更多信息"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:36:08"
 }

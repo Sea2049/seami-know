@@ -1,11 +1,11 @@
 {
- "summary": "本节课介绍了订单确认环节的商务英语表达技巧，包括型号、参数、数量、交货时间等细节的确认，以及下单成功后的感谢和合作展望。",
+ "summary": "谈单快收尾时，怎么用英语把型号、数量、交期逐一确认清楚，让客户踏实下单、双方都认可。",
  "keypoints": [
-  "确认订单细节需明确型号、参数、数量等关键信息",
-  "使用专业术语如 'order' 表示订购，'ship' 表示发货",
-  "确认交货时间时使用 'when would you be able to ship it' 等表达",
-  "下单成功后表达感谢并展望未来合作",
-  "注意使用礼貌用语和合作态度以促进交易成功"
+  "确认订单先把型号、参数、数量说死，比如直接讲 We want to order 3000 computers，别含糊。",
+  "让客户填订单表格时说 Fill out this order form，简单直接，比绕弯子更专业。",
+  "问交期用 when would you be able to ship it 或 what would be the shipment date，一句话问到点上。",
+  "听到 That sounds really reasonable 或 I'm in complete agreement，基本就是谈成了，可以推进下单。",
+  "成交后别忘了说 Thank you for your order 加一句期待再合作，关系是回头客的基础。"
  ],
  "sections": [
   {
@@ -54,5 +54,16 @@
   "但是，关于付款条款又是怎样的呢？"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:18:35"
+ "readable_ts": "2026-07-26 18:18:35",
+ "summary_prev": "本节课介绍了订单确认环节的商务英语表达技巧，包括型号、参数、数量、交货时间等细节的确认，以及下单成功后的感谢和合作展望。",
+ "keypoints_prev": [
+  "确认订单细节需明确型号、参数、数量等关键信息",
+  "使用专业术语如 'order' 表示订购，'ship' 表示发货",
+  "确认交货时间时使用 'when would you be able to ship it' 等表达",
+  "下单成功后表达感谢并展望未来合作",
+  "注意使用礼貌用语和合作态度以促进交易成功"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:36:34"
 }

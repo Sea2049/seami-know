@@ -1,12 +1,12 @@
 {
- "summary": "本节课介绍了谈判中产品质量的讨论技巧，包括保证产品质量、表达感谢和希望、寻找共同利益点以及妥协和让步的技巧。",
+ "summary": "谈判卡壳时怎么开口：先拿质量和服务打底，再找共同利益，最后用妥协话术把分歧谈拢。",
  "keypoints": [
-  "保证产品质量，使用‘Our products are of great quality’等表达。",
-  "表达感谢和希望，如‘Thank you. I'm glad to be here. And I hope we'll come out from this meeting as winners.’。",
-  "寻找共同利益点，强调‘common ground’和‘find a common ground’的重要性。",
-  "在谈判中提出妥协和让步，如‘I hope you may make some compromise’。",
-  "使用‘compromise’或‘concession’表达让步。",
-  "在无法达成一致时，提出妥协方案，如‘Can we make a compromise here? How about you offer us a trial period first?’。"
+  "用“Our products are of great quality”直接给质量打包票，稳住客户信心。",
+  "开场先致谢并表达双赢期待，一句“come out as winners”定好谈判基调。",
+  "反复强调find a common ground，把谈判往双方共同利益上引。",
+  "想让对方让步，直接说“I hope you may make some compromise”，别绕弯子。",
+  "让步表达记住两个词：compromise和concession，场景不同换着用。",
+  "谈不拢时抛出具体方案，比如“Can we make a compromise? 先给个试用期试试”。"
  ],
  "sections": [
   {
@@ -56,5 +56,17 @@
   "寻找双方都能接受的解决方案，例如‘So let's find good’。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:18:25"
+ "readable_ts": "2026-07-26 18:18:25",
+ "summary_prev": "本节课介绍了谈判中产品质量的讨论技巧，包括保证产品质量、表达感谢和希望、寻找共同利益点以及妥协和让步的技巧。",
+ "keypoints_prev": [
+  "保证产品质量，使用‘Our products are of great quality’等表达。",
+  "表达感谢和希望，如‘Thank you. I'm glad to be here. And I hope we'll come out from this meeting as winners.’。",
+  "寻找共同利益点，强调‘common ground’和‘find a common ground’的重要性。",
+  "在谈判中提出妥协和让步，如‘I hope you may make some compromise’。",
+  "使用‘compromise’或‘concession’表达让步。",
+  "在无法达成一致时，提出妥协方案，如‘Can we make a compromise here? How about you offer us a trial period first?’。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:36:15"
 }

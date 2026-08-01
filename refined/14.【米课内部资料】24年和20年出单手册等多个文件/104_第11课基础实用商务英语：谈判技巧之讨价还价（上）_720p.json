@@ -1,14 +1,12 @@
 {
- "summary": "本课深入探讨商务谈判中的讨价还价技巧，强调策略与沟通的重要性。",
+ "summary": "讨价还价不是硬砍价，这课教你报最低价、接客户嫌贵、再让一步的整套英语说法，让双方都能愉快签单。",
  "keypoints": [
-  "讨价还价需讲究策略，目标是双方愉悦达成订单。",
-  "必备词汇包括：agree to, rock bottom price, price range等。",
-  "表达最低价时使用It's the lowest price等句型。",
-  "客户对价格不满意可表达为The price is too high或The price is unfair。",
-  "讨论结束后可提出降价建议，如We think how much is more suitable。",
-  "价格过高可能导致交易失败。",
-  "了解最高价、最低价、成本价等价格表达方式。",
-  "关注总成本而非单纯价格，并记录价格术语。"
+  "讨价还价的目的是双方愉快地达成订单，不是把客户压到没利润。",
+  "表达最低价有几套说法：It's the lowest price、It's about as low as we can go 等，换着用显得更专业。",
+  "客户嫌贵时会说 The price is too high 或 far beyond our budget，听懂这些才知道该让多少。",
+  "谈完还有空间时，用 We think how much is more suitable 主动给出建议价位。",
+  "记住 rock bottom price、price range、批发价、零售价等术语，谈价格时不会卡壳。",
+  "别只盯着单价，要看总成本，价格咬太死可能直接谈崩丢单。"
  ],
  "sections": [
   {
@@ -63,5 +61,19 @@
   "在与客户交流时，可以强调关注成本而非价格，例如‘我根本就不在意价格是多少，我更加在意的是总的成本’。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:18:05"
+ "readable_ts": "2026-07-26 18:18:05",
+ "summary_prev": "本课深入探讨商务谈判中的讨价还价技巧，强调策略与沟通的重要性。",
+ "keypoints_prev": [
+  "讨价还价需讲究策略，目标是双方愉悦达成订单。",
+  "必备词汇包括：agree to, rock bottom price, price range等。",
+  "表达最低价时使用It's the lowest price等句型。",
+  "客户对价格不满意可表达为The price is too high或The price is unfair。",
+  "讨论结束后可提出降价建议，如We think how much is more suitable。",
+  "价格过高可能导致交易失败。",
+  "了解最高价、最低价、成本价等价格表达方式。",
+  "关注总成本而非单纯价格，并记录价格术语。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:35:52"
 }

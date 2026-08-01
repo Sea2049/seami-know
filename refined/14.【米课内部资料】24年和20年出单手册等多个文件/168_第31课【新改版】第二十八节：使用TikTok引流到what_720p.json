@@ -1,10 +1,11 @@
 {
- "summary": "本节课介绍了如何将TikTok用户引流至WhatsApp Business，通过设置短链接实现便捷沟通。",
+ "summary": "TikTok主页挂链接是引流WhatsApp最顺的入口，这课讲的就是怎么把WhatsApp Business短链接装上去，让刷到你的客户一键就能私聊。",
  "keypoints": [
-  "使用WhatsApp Business以获取商业账户的完整链接功能。",
-  "通过语音验证方式解决手机无法发送验证码的问题。",
-  "在TikTok个人资料中添加WhatsApp Business短链接。",
-  "确保链接保存成功，以便用户点击访问。"
+  "用WhatsApp Business而不是普通版，因为只有商业版才给完整的短链接功能。",
+  "手机收不到短信验证码时，改用语音电话验证完成WhatsApp注册。",
+  "在WhatsApp Business设置里找到Shortlink入口，复制专属于你的联系链接。",
+  "TikTok账号先切换成商业账户，才能在个人资料里添加Website栏位。",
+  "把短链接粘到TikTok主页Website并保存，返回主页确认链接能正常显示和点开。"
  ],
  "sections": [
   {
@@ -37,5 +38,15 @@
   "大家好，我是Elan。今天我们来到了第28节课，主题是如何将TikTok上的客户引导到我们的WhatsApp上。我之前一直强调使用WhatsApp Business，所以接下来我会教大家如何在TikTok上挂载WhatsApp Business的链接。首先，打开苹果手机的APP Store，搜索并下载WhatsApp Business应用。下载后打开应用，同意相关条款，并输入中国的电话号码完成注册。如果遇到手机无法发送验证码的情况，可以选择通过语音验证。验证成功后，进入应用界面，点击Business Tours，找到Shortlink（短链接），复制链接。接着，打开TikTok，点击“我”，进入编辑资料界面，找到Website（网站）并粘贴复制的链接。保存后，TikTok个人资料中会出现WhatsApp的短链接标句。用户点击后即可进入WhatsApp界面。这样，我们就成功地将WhatsApp链接挂载到了TikTok上，方便用户直接通过WhatsApp与我们联系。这节课的内容就到这里，谢谢大家。"
  ],
  "readable_model": "glm-4-flash",
- "readable_ts": "2026-07-26 18:22:21"
+ "readable_ts": "2026-07-26 18:22:21",
+ "summary_prev": "本节课介绍了如何将TikTok用户引流至WhatsApp Business，通过设置短链接实现便捷沟通。",
+ "keypoints_prev": [
+  "使用WhatsApp Business以获取商业账户的完整链接功能。",
+  "通过语音验证方式解决手机无法发送验证码的问题。",
+  "在TikTok个人资料中添加WhatsApp Business短链接。",
+  "确保链接保存成功，以便用户点击访问。"
+ ],
+ "voice_v": 2,
+ "voice_model": "k3",
+ "voice_ts": "2026-08-01 20:39:55"
 }
